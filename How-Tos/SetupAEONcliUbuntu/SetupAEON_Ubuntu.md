@@ -294,8 +294,7 @@ appear in your wallet balance.</p>
 use the <b>transfer</b> command.  The basic usage is as follows:</p>
 
 {% highlight console %}
-transfer [&lt;priority&gt;]
-[&lt;ring_size&gt;] &lt;address&gt; &lt;amount&gt; [&lt;payment_id&gt;]
+transfer [<priority>] [<ring_size>] <address> <amount> [<payment_id>]
 {% endhighlight %}
 
 <p>The result is that you will transfer the specified &lt;amount&gt;
