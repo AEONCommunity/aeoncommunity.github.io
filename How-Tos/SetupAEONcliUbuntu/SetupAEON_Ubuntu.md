@@ -20,8 +20,6 @@ href="https://github.com/aeonix/aeon/releases">https://github.com/aeonix/aeon/re
 
 <img src="githubDownload.PNG">
 
-<p>&nbsp;</p>
-
 <p><b>NOTE:</b>  Make sure you get the 0.12.6.0 release or
 later, as it has some important security and stability fixes.  The latest
 release should always be listed first on the page.</p>
