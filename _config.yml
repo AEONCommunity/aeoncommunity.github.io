@@ -1,5 +1,9 @@
 theme: jekyll-theme-minimal
-markdown: kramdown
 title: AEON Coin How-To Articles
 description: Here is some information related to the AEON digital currency.
 logo: /assets/img/aeon_title2_340x128.png
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
