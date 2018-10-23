@@ -117,12 +117,8 @@ node with 2 parameters as follows:</p>
 <!-- <p>                <span style='font-family:"Courier New"'>./aeond -->
 <!-- --block-sync-size 1000 --max-concurrency 15</span></p> -->
 
-```
-Here is some text.
-```
-
-{% highlight %}
- aeond --block-sync-size 1000 --max-concurrency 15
+{% highlight console %}
+./aeond --block-sync-size 1000 --max-concurrency 15
 {% endhighlight %}
 
 <p>Make sure you enter the command with the correct dashes and
@@ -297,9 +293,10 @@ appear in your wallet balance.</p>
 <p>To send AEON from your wallet to another wallet, you will
 use the <b>transfer</b> command.  The basic usage is as follows:</p>
 
-<p><span style='font-family:"Courier New"'>   transfer [&lt;priority&gt;]
-[&lt;ring_size&gt;] &lt;address&gt; &lt;amount&gt; [&lt;payment_id&gt;]</span></p>
-
+{% highlight console %}
+transfer [&lt;priority&gt;]
+[&lt;ring_size&gt;] &lt;address&gt; &lt;amount&gt; [&lt;payment_id&gt;]
+{% endhighlight %}
 
 <p>The result is that you will transfer the specified &lt;amount&gt;
 of AEON coins to the specified wallet &lt;address&gt;.</p>
