@@ -47,7 +47,7 @@ system. This will be covered in a later guide.)</p>
 “aeon-linux-x64-v0.12.6.0.tar.bz2” link, and save the file.  This will likely
 save the file in your Downloads directory, unless you specify another location.</p>
 
-<img src=githubDownload1.PNG>
+<img src="githubDownload1.PNG">
 
 <p>&nbsp;</p>
 
@@ -71,7 +71,7 @@ install later.  I will create a new directory within my home directory, called
 “App”.  If you choose a different name, be sure to use your directory name in
 place of “App” in any below commands.</p>
 
-<p><img border=0 src=prep1.PNG></p>
+<img border=0 src="prep1.PNG">
 
 <p>&nbsp;</p>
 
