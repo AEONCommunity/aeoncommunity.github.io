@@ -71,7 +71,7 @@ install later.  I will create a new directory within my home directory, called
 “App”.  If you choose a different name, be sure to use your directory name in
 place of “App” in any below commands.</p>
 
-<img border=0 src="prep1.PNG">
+<img src="prep1.PNG">
 
 <p>&nbsp;</p>
 
@@ -86,7 +86,7 @@ directory".  I am running this command from my home directory, and the "Download
 directories are both located there.  That is why you see
 "./Downloads/..." and "./App".
 
-<p><img border=0 src=prep2.PNG></p>
+<img src="prep2.PNG">
 
 <p>From the 8 lines of output above, we can see that a new
 directory was created inside our App directory, called “<b>aeon-v-0.12.6.0</b>”. 
@@ -96,7 +96,7 @@ All of the provided binaries now exist within that sub-directory.</p>
 “cd” command to change to the new directory, and the “ls” command to list all
 the files in that directory.  This is shown in the below picture:</p>
 
-<p><img border=0 src=prep3.PNG></p>
+<img src="prep3.PNG">
 
 
 <p>Notice the 7 green files listed below the “ls” command. (You may not see them in green.)
@@ -125,7 +125,7 @@ spaces!</p>
 <p>You should see the AEON node output in your terminal window
 as shown below:</p>
 
-<p><img border=0 src=aeond1.PNG></p>
+<img src="aeond1.PNG">
 
 <p>Note that you want to see the correct version # in the first
 output line.  In this case “(v0.12.6.0-master-release)” is correct.</p>
@@ -142,7 +142,7 @@ you wait!</p>
 <p>When your node has finished sync’ing the blockchain, you
 will see a final message as shown below:</p>
 
-<p><img border=0 src=aeond2.PNG></p>
+<img src="aeond2.PNG">
 
 <p>&nbsp;</p>
 
@@ -161,7 +161,7 @@ will ensure the blockchain is saved, and the <b>exit</b> command will stop the
 node and exit.  These commands and their output can be seen in the picture
 below.</p>
 
-<p><img border=0 src=aeond4.PNG></p>
+<img src="aeond4.PNG">
 
 <p><b>&nbsp;</b></p>
 
@@ -180,7 +180,7 @@ Then, open a 2<sup>nd</sup> terminal window so you can run your wallet.</p>
 <p>In your newly opened terminal, change to the directory where
 your AEON binaries are, and run the <b>aeon-wallet-cli</b> application as shown below:</p>
 
-<p><img border=0 src=wallet-cli1.PNG></p>
+<img src="wallet-cli1.PNG">
 
 <p>(Note that your binaries may be in a different location than
 the “App” directory in the examples.)</p>
@@ -191,7 +191,7 @@ the “App” directory in the examples.)</p>
 entered <b>FirstWallet</b> as the name in the example below, and am entering <b>Yes</b>
 to confirm.</p>
 
-<p><img border=0 src=wallet-cli2.PNG></p>
+<img src="wallet-cli2.PNG">
 
 <p>&nbsp;</p>
 
@@ -206,7 +206,7 @@ confirm.  </p>
 wallet’s seed words, after which your wallet will be created as shown the
 picture below:</p>
 
-<p><img border=0 src=wallet-cli3.PNG></p>
+<img src="wallet-cli3.PNG">
 
 <p>The first thing you will see is the very long primary wallet address
 (beginning with <b>Wmsrb2…</b> in the picture above), followed by the not-quite-as-long <b>view
@@ -277,8 +277,7 @@ address to receive donations, I can create another address with the label “Don
 address.  Note that it has the ID number 2.  The primary address is always ID #
 0, and I first created the mining payouts address as ID # 1.</p>
 
-<p><img border=0 id="Picture 15"
-src="SetupAEON_Ubuntu_files/image001.png"></p>
+<img src="wallet-cli4.PNG">
 
 <p>To receive a payment, simply provide one of your wallet
 addresses to the person who wants to send you some AEON coins.  They will transfer
