@@ -10,12 +10,10 @@ should work similarly on other flavors of Linux.</p>
 
 <h1>Requirements</h1>
 
-<p>- Ubuntu 16.04</p>
-
-<p>- 2 GB RAM  (AEON will use &lt; 0.5GB RAM when running)</p>
-
-<p>- 20 GB available hard drive space
-(as of Oct 14, 2018, the AEON blockchain files use about 7.0 GB of disk space)</p>
+*   Ubuntu 16.04
+*   2 GB RAM  (AEON will use &lt; 0.5GB RAM when running)
+*   20 GB available hard drive space <br>
+(as of Oct 14, 2018, the AEON blockchain files use about 7.0 GB of disk space)
 
 <p>- The latest version of AEON</p>
 
