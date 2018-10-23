@@ -27,7 +27,7 @@ href="https://github.com/aeonix/aeon/releases">https://github.com/aeonix/aeon/re
 
 <!-- <p><img border=0 src=githubDownload.PNG></p> -->
 
-![download](githubDownload.PNG)
+![download](githubDownload.png)
 
 <p>&nbsp;</p>
 
