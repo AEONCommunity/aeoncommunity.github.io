@@ -117,7 +117,7 @@ node with 2 parameters as follows:</p>
 <!-- <p>                <span style='font-family:"Courier New"'>./aeond -->
 <!-- --block-sync-size 1000 --max-concurrency 15</span></p> -->
 
-```
+```terminal
  aeond --block-sync-size 1000 --max-concurrency 15
 ```
 
