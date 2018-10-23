@@ -25,7 +25,7 @@ Navigate in the browser to:</p>
 <p><a
 href="https://github.com/aeonix/aeon/releases">https://github.com/aeonix/aeon/releases</a></p>
 
-<!-- <p><img border=0 src=githubDownload.PNG></p> -->
+<img src="githubDownload.PNG">
 
 ![download](
         aeon-coin-howto/How-Tos/SetupAEONcliUbuntu/githubDownload.PNG
