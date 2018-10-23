@@ -6,6 +6,7 @@ h1, h2, h3, h4, h5, h6 {
   color:#444444ff;
   margin:0 0 20px;
 }
+
 a {
   color:#2c89a0ff;
   text-decoration:none;
@@ -25,4 +26,10 @@ a small {
 
 a:hover small {
   color:#777;
+}
+
+section {
+  width:600px;
+  float:right;
+  padding-bottom:50px;
 }
