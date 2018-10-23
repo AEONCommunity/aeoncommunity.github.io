@@ -27,10 +27,6 @@ href="https://github.com/aeonix/aeon/releases">https://github.com/aeonix/aeon/re
 
 <img src="githubDownload.PNG">
 
-![download](
-        aeon-coin-howto/How-Tos/SetupAEONcliUbuntu/githubDownload.PNG
-      )
-
 <p>&nbsp;</p>
 
 <p><b>NOTE:</b>  Make sure you get the 0.12.6.0 release or
@@ -51,7 +47,7 @@ system. This will be covered in a later guide.)</p>
 “aeon-linux-x64-v0.12.6.0.tar.bz2” link, and save the file.  This will likely
 save the file in your Downloads directory, unless you specify another location.</p>
 
-<p><img border=0 src=githubDownload1.PNG></p>
+<img border=0 src=githubDownload1.PNG>
 
 <p>&nbsp;</p>
 
