@@ -11,4 +11,4 @@ this will apply to other flavors of Linux as well, especially Ubuntu derivatives
 
 *   How To: [Setup AEON Command Line Wallet on Ubuntu](./How-Tos/SetupAEONcliUbuntu/SetupAEON_Ubuntu.md).
 
-Come back again sometime ... there may be more How-To's in a couple weeks!
+Come back again sometime ... there may be more How-To's by then!
