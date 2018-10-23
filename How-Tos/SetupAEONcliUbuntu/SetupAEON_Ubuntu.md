@@ -64,8 +64,6 @@ place of “App” in any below commands.</p>
 
 <img src="prep1.PNG">
 
-<p>&nbsp;</p>
-
 <p>Next I will unpack the file I downloaded, into the App
 directory, using the “tar” command. In the picture below, the command is on the
 first line.  This assumes you downloaded AEON to your “Downloads” directory. 
@@ -180,8 +178,6 @@ your AEON binaries are, and run the <b>aeon-wallet-cli</b> application as shown 
 <p>(Note that your binaries may be in a different location than
 the “App” directory in the examples.)</p>
 
-<p>&nbsp;</p>
-
 <p>First, you will need to enter a name for your wallet. I have
 entered <b>FirstWallet</b> as the name in the example below, and am entering <b>Yes</b>
 to confirm.</p>
@@ -229,6 +225,8 @@ automatically refresh the balance should any coins be sent to it.  You can
 enter commands after the prompt at the bottom of the screen.  Enter <b>help</b>
 to see a list of available commands.  In the next section we will explore some
 of the CLI wallet commands.</p>
+
+<p>&nbsp;</p>
 
 <h1>Useful CLI Wallet Commands</h1>
 
