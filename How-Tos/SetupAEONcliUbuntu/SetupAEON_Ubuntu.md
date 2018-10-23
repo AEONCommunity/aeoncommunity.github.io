@@ -121,7 +121,7 @@ node with 2 parameters as follows:</p>
 Here is some text.
 ```
 
-{% highlight bash %}
+{% highlight console %}
  aeond --block-sync-size 1000 --max-concurrency 15
 {% endhighlight %}
 
