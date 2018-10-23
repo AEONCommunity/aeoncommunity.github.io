@@ -6,6 +6,23 @@ h1, h2, h3, h4, h5, h6 {
   color:#444444ff;
   margin:0 0 20px;
 }
-title {
+a {
   color:#2c89a0ff;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#164450ff;
+  font-weight: bold;
+}
+
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#777;
 }
