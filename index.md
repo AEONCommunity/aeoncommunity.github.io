@@ -1,6 +1,8 @@
 # Welcome!
 
-This site will contain some How-To's for the AEON digital currency.</p>
+This site will contain some How-To's for the AEON digital currency.
+
+Find out more about AEON at [the official website](https://www.aeon.cash).
 
 ## Using AEON on Ubuntu
 
