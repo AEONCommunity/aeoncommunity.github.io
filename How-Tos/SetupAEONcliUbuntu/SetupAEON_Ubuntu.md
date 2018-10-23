@@ -1,6 +1,3 @@
-<html>
-
-<body>
 
 <h1>Setup AEON Command Line Wallet on Ubuntu</h1>
 
@@ -12,10 +9,8 @@ should work similarly on other flavors of Linux.</p>
 
 *   Ubuntu 16.04
 *   2 GB RAM  (AEON will use &lt; 0.5GB RAM when running)
-*   20 GB available hard drive space <br>
-(as of Oct 14, 2018, the AEON blockchain files use about 7.0 GB of disk space)
-
-<p>- The latest version of AEON</p>
+*   20 GB available hard drive space (as of Oct 14, 2018, the AEON blockchain files use about 7.0 GB of disk space)
+*   The latest version of AEON
 
 <p>First, we need to download AEON to our Ubuntu machine. 
 Navigate in the browser to:</p>
@@ -316,9 +311,3 @@ a greater degree of privacy for the sender and receiver.</p>
 <p>An optional &lt;payment_id&gt; may be used for accounting
 purposes, so the sender and receiver will know what the payment was intended
 for.</p>
-
-<p>&nbsp;</p>
-
-</body>
-
-</html>
