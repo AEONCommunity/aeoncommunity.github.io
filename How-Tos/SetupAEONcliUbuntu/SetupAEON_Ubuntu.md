@@ -288,22 +288,22 @@ use the <b>transfer</b> command.  The basic usage is as follows:</p>
 transfer [<priority>] [<ring_size>] <address> <amount> [<payment_id>]
 {% endhighlight %}
 
-<p>The result is that you will transfer the specified &lt;amount&gt;
-of AEON coins to the specified wallet &lt;address&gt;.</p>
+<p>The result is that you will transfer the specified <b>amount</b>
+of AEON coins to the specified wallet <b>address</b>.</p>
 
-<p>The &lt;priority&gt; value is directly related to the
+<p>The <b>priority</b> value is directly related to the
 transaction fee that will be charged; higher priority transactions will be fulfilled more
 quickly for a higher fee.  Valid values in order of priority are:  <b>unimportant</b>,
 <b>normal</b>, <b>elevated</b>, and <b>priority</b>.  If omitted, the default transaction
 fee is used.</p>
 
-<p>&lt;ring_size&gt; is the number if <b>mixins</b> to use for
-untraceability.  The default ring_size is 3, and a ring size of 1 is not
-allowed.  A ring size of 0 is only allowed in 10% of transactions within each
+<p><b>ring_size</b>; is the number if inputs to use for
+untraceability (including your own input).  The default ring_size is 3, and a ring size of 2 is not
+allowed.  A ring size of 1 is only allowed in 10% of transactions within each
 block, and results in full visibility of the send/receive addresses on the blockchain. 
 A ring_size larger than 3 <i>may</i> increase the transaction fee, but provides
 a greater degree of privacy for the sender and receiver.</p>
 
-<p>An optional &lt;payment_id&gt; may be used for accounting
+<p>An optional <b>payment_id</b> may be used for accounting
 purposes, so the sender and receiver will know what the payment was intended
 for.</p>
