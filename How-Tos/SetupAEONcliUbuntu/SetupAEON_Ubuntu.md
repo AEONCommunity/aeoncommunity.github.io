@@ -119,9 +119,9 @@ node with 2 parameters as follows:</p>
 
 Here is some text.
 
-'''console
+~~~console
  aeond --block-sync-size 1000 --max-concurrency 15
-'''
+~~~
 
 <p>Make sure you enter the command with the correct dashes and
 spaces!</p>
