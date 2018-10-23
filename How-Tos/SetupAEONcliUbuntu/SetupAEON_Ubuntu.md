@@ -116,8 +116,12 @@ binaries.  You can run them from within this directory.</p>
 entire AEON blockchain to your computer.  To speed up this process, we run the
 node with 2 parameters as follows:</p>
 
-<p>                <span style='font-family:"Courier New"'>./aeond
---block-sync-size 1000 --max-concurrency 15</span></p>
+<!-- <p>                <span style='font-family:"Courier New"'>./aeond -->
+<!-- --block-sync-size 1000 --max-concurrency 15</span></p> -->
+
+```
+./aeond --block-sync-size 1000 --max-concurrency 15
+```
 
 <p>Make sure you enter the command with the correct dashes and
 spaces!</p>
