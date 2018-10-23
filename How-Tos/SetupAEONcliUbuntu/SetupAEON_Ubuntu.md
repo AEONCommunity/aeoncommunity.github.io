@@ -27,7 +27,7 @@ href="https://github.com/aeonix/aeon/releases">https://github.com/aeonix/aeon/re
 
 <!-- <p><img border=0 src=githubDownload.PNG></p> -->
 
-![download](https://./githubDownload.PNG)
+![download](https://thriftyminnow.github.io/aeon-coin-howto/How-Tos/SetupAEONcliUbuntu/githubDownload.PNG)
 
 <p>&nbsp;</p>
 
