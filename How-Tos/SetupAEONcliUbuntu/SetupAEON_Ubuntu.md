@@ -297,11 +297,11 @@ quickly for a higher fee.  Valid values in order of priority are:  <b>unimport
 <b>normal</b>, <b>elevated</b>, and <b>priority</b>.  If omitted, the default transaction
 fee is used.</p>
 
-<p><b>ring_size</b>; is the number if inputs to use for
-untraceability (including your own input).  The default ring_size is 3, and a ring size of 2 is not
+<p><b>ring_size</b> is the number if inputs to use for
+untraceability (including your own input).  The default ring size is 3, and a ring size of 2 is not
 allowed.  A ring size of 1 is only allowed in 10% of transactions within each
 block, and results in full visibility of the send/receive addresses on the blockchain. 
-A ring_size larger than 3 <i>may</i> increase the transaction fee, but provides
+A ring size larger than 3 <i>may</i> increase the transaction fee, but provides
 a greater degree of privacy for the sender and receiver.</p>
 
 <p>An optional <b>payment_id</b> may be used for accounting
