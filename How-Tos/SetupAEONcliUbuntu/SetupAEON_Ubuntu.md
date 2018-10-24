@@ -18,7 +18,7 @@ Navigate in the browser to:</p>
 <p><a
 href="https://github.com/aeonix/aeon/releases">https://github.com/aeonix/aeon/releases</a></p>
 
-<img src="githubDownload.PNG">
+<!-- <img src="githubDownload.PNG">  
 
 <p><b>NOTE:</b>  Make sure you get the 0.12.6.0 release or
 later, as it has some important security and stability fixes.  The latest
