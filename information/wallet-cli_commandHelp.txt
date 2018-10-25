@@ -1,0 +1,585 @@
+help account
+Command usage: 
+  account
+  account new <label text with white spaces allowed>
+  account switch <index> 
+  account label <index> <label text with white spaces allowed>
+  account tag <tag_name> <account_index_1> [<account_index_2> ...]
+  account untag <account_index_1> [<account_index_2> ...]
+  account tag_description <tag_name> <description>
+
+Command description: 
+  If no arguments are specified, the wallet shows all the existing accounts along with their balances.
+  If the "new" argument is specified, the wallet creates a new account with its label initialized by the provided label text (which can be empty).
+  If the "switch" argument is specified, the wallet switches to the account specified by <index>.
+  If the "label" argument is specified, the wallet sets the label of the account specified by <index> to the provided label text.
+  If the "tag" argument is specified, a tag <tag_name> is assigned to the specified accounts <account_index_1>, <account_index_2>, ....
+  If the "untag" argument is specified, the tags assigned to the specified accounts <account_index_1>, <account_index_2> ..., are removed.
+  If the "tag_description" argument is specified, the tag <tag_name> is assigned an arbitrary text <description>.
+
+
+help address
+Command usage: 
+  address [ new <label text with white spaces allowed> | all | <index_min> [<index_max>] | label <index> <label text with white spaces allowed>]
+
+Command description: 
+  If no arguments are specified or <index> is specified, the wallet shows the default or specified address. If "all" is specified, the wallet shows all the existing addresses in the currently selected account. If "new " is specified, the wallet creates a new address with the provided label text (which can be empty). If "label" is specified, the wallet sets the label of the address specified by <index> to the provided label text.
+
+
+help address_book
+Command usage: 
+  address_book [(add ((<address> [pid <id>])|<integrated address>) [<description possibly with whitespaces>])|(delete <index>)]
+
+Command description: 
+  Print all entries in the address book, optionally adding/deleting an entry to/from it.
+
+
+help balance
+Command usage: 
+  balance [detail]
+
+Command description: 
+  Show the wallet's balance of the currently selected account.
+
+
+help bc_height
+Command usage: 
+  bc_height
+
+Command description: 
+  Show the blockchain height.
+
+
+help blackball
+Command usage: 
+  blackball <output public key> | <filename> [add]
+
+Command description: 
+  Blackball output(s) so they never get selected as fake outputs in a ring
+
+
+help blackballed
+Command usage: 
+  blackballed <output public key>
+
+Command description: 
+  Checks whether an output is blackballed
+
+
+help check_reserve_proof
+Command usage: 
+  check_reserve_proof <address> <signature_file> [<message>]
+
+Command description: 
+  Check a signature proving that the owner of <address> holds at least this much, optionally with a challenge string <message>.
+
+
+help check_spend_proof
+Command usage: 
+  check_spend_proof <txid> <signature_file> [<message>]
+
+Command description: 
+  Check a signature proving that the signer generated <txid>, optionally with a challenge string <message>.
+
+
+help check_tx_key
+Command usage: 
+  check_tx_key <txid> <txkey> <address>
+
+Command description: 
+  Check the amount going to <address> in <txid>.
+
+
+help check_tx_proof
+Command usage: 
+  check_tx_proof <txid> <address> <signature_file> [<message>]
+
+Command description: 
+  Check the proof for funds going to <address> in <txid> with the challenge string <message> if any.
+
+
+help donate
+Command usage: 
+  donate [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] <amount> [<payment_id>]
+
+Command description: 
+  Donate <amount> to the development team (donate.aeon.cash).
+
+
+help encrypted_seed
+Command usage: 
+  encrypted_seed
+
+Command description: 
+  Display the encrypted Electrum-style mnemonic seed.
+
+
+help export_key_images
+Command usage: 
+  export_key_images <file>
+
+Command description: 
+  Export a signed set of key images to a <file>.
+
+
+help export_outputs
+Command usage: 
+  export_outputs <file>
+
+Command description: 
+  Export a set of outputs owned by this wallet.
+
+
+help get_description
+Command usage: 
+  get_description
+
+Command description: 
+  Get the description of the wallet.
+
+
+help get_reserve_proof
+Command usage: 
+  get_reserve_proof (all|<amount>) [<message>]
+
+Command description: 
+  Generate a signature proving that you own at least this much, optionally with a challenge string <message>.
+  If 'all' is specified, you prove the entire sum of all of your existing accounts' balances.
+  Otherwise, you prove the reserve of the smallest possible amount above <amount> available in your current account.
+
+
+help get_spend_proof
+Command usage: 
+  get_spend_proof <txid> [<message>]
+
+Command description: 
+  Generate a signature proving that you generated <txid> using the spend secret key, optionally with a challenge string <message>.
+
+
+help get_tx_key
+Command usage: 
+  get_tx_key <txid>
+
+Command description: 
+  Get the transaction key (r) for a given <txid>.
+
+
+help get_tx_note
+Command usage: 
+  get_tx_note <txid>
+
+Command description: 
+  Get a string note for a txid.
+
+
+help get_tx_proof
+Command usage: 
+  get_tx_proof <txid> <address> [<message>]
+
+Command description: 
+  Generate a signature proving funds sent to <address> in <txid>, optionally with a challenge string <message>, using either the transaction secret key (when <address> is not your wallet's address) or the view secret key (otherwise), which does not disclose the secret key.
+
+
+help help
+Command usage: 
+  help [<command>]
+
+Command description: 
+  Show the help section or the documentation about a <command>.
+
+
+help import_key_images
+Command usage: 
+  import_key_images <file>
+
+Command description: 
+  Import a signed key images list and verify their spent status.
+
+
+help import_outputs
+Command usage: 
+  import_outputs <file>
+
+Command description: 
+  Import a set of outputs owned by this wallet.
+
+
+help incoming_transfers
+Command usage: 
+  incoming_transfers [available|unavailable] [verbose] [index=<N1>[,<N2>[,...]]]
+
+Command description: 
+  Show the incoming transfers, all or filtered by availability and address index.
+
+
+help integrated_address
+Command usage: 
+  integrated_address [<payment_id> | <address>]
+
+Command description: 
+  Encode a payment ID into an integrated address for the current wallet public address (no argument uses a random payment ID), or decode an integrated address to standard address and payment ID
+
+
+help locked_transfer
+Command usage: 
+  locked_transfer [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] <addr> <amount> <lockblocks> [<payment_id>]
+
+Command description: 
+  Transfer <amount> to <address> and lock it for <lockblocks> (max. 1000000). If the parameter "index=<N1>[,<N2>,...]" is specified, the wallet uses outputs received by addresses of those indices. If omitted, the wallet randomly chooses address indices to be used. In any case, it tries its best not to combine outputs across multiple addresses. <priority> is the priority of the transaction. The higher the priority, the higher the transaction fee. Valid values in priority order (from lowest to highest) are: unimportant, normal, elevated, priority. If omitted, the default value (see the command "set priority") is used. <ring_size> is the number of inputs to include for untraceability. Multiple payments can be made at once by adding <address_2> <amount_2> etcetera (before the payment ID, if it's included)
+
+
+help password
+Command usage: 
+  password
+
+Command description: 
+  Change the wallet's password.
+
+
+help payment_id
+Command usage: 
+  payment_id
+
+Command description: 
+  Generate a new random full size payment id. These will be unencrypted on the blockchain, see integrated_address for encrypted short payment ids.
+
+
+help payments
+Command usage: 
+  payments <PID_1> [<PID_2> ... <PID_N>]
+
+Command description: 
+  Show the payments for the given payment IDs.
+
+
+help print_ring
+Command usage: 
+  print_ring <key_image> | <txid>
+
+Command description: 
+  Print the ring(s) used to spend a given key image or transaction (if the ring size is > 1)
+
+
+help refresh
+Command usage: 
+  refresh
+
+Command description: 
+  Synchronize the transactions and balance.
+
+
+help rescan_bc
+Command usage: 
+  rescan_bc
+
+Command description: 
+  Rescan the blockchain from scratch.
+
+
+help rescan_spent
+Command usage: 
+  rescan_spent
+
+Command description: 
+  Rescan the blockchain for spent outputs.
+
+
+help save
+Command usage: 
+  save
+
+Command description: 
+  Save the wallet data.
+
+
+help save_bc
+Command usage: 
+  save_bc
+
+Command description: 
+  Save the current blockchain data.
+
+
+help save_known_rings
+Command usage: 
+  save_known_rings
+
+Command description: 
+  Save known rings to the shared rings database
+
+
+help save_watch_only
+Command usage: 
+  save_watch_only
+
+Command description: 
+  Save a watch-only keys file.
+
+
+help seed
+Command usage: 
+  seed
+
+Command description: 
+  Display the Electrum-style mnemonic seed
+
+
+help set
+Command usage: 
+  set <option> [<value>]
+
+Command description: 
+  Available options:
+   seed language
+     Set the wallet's seed language.
+   always-confirm-transfers <1|0>
+     Whether to confirm unsplit txes.
+   print-ring-members <1|0>
+     Whether to print detailed information about ring members during confirmation.
+   store-tx-info <1|0>
+     Whether to store outgoing tx info (destination address, payment ID, tx secret key) for future reference.
+   default-ring-size <n>
+     Set the default ring size (default and minimum is 5).
+   auto-refresh <1|0>
+     Whether to automatically synchronize new blocks from the daemon.
+   refresh-type <full|optimize-coinbase|no-coinbase|default>
+     Set the wallet's refresh behaviour.
+   priority [0|1|2|3|4]
+     Set the fee to default/unimportant/normal/elevated/priority.
+   confirm-missing-payment-id <1|0>
+   ask-password <1|0>
+   unit <aeon|milliaeon|microaeon|nanoaeon|picoaeon>
+     Set the default monero (sub-)unit.
+   min-outputs-count [n]
+     Try to keep at least that many outputs of value at least min-outputs-value.
+   min-outputs-value [n]
+     Try to keep at least min-outputs-count outputs of at least that value.
+   merge-destinations <1|0>
+     Whether to merge multiple payments to the same destination address.
+   confirm-backlog <1|0>
+     Whether to warn if there is transaction backlog.
+   confirm-backlog-threshold [n]
+     Set a threshold for confirm-backlog to only warn if the transaction backlog is greater than n blocks.
+   refresh-from-block-height [n]
+     Set the height before which to ignore blocks.
+   auto-low-priority <1|0>
+     Whether to automatically use the low priority fee level when it's safe to do so.
+   segregate-pre-fork-outputs <1|0>
+     Set this if you intend to spend outputs on both Monero AND a key reusing fork.
+   key-reuse-mitigation2 <1|0>
+     Set this if you are not sure whether you will spend on a key reusing Monero fork later.
+  subaddress-lookahead <major>:<minor>
+     Set the lookahead sizes for the subaddress hash table.
+     Set this if you are not sure whether you will spend on a key reusing Monero fork later.
+   segregation-height <n>
+     Set to the height of a key reusing fork you want to use, 0 to use default.
+
+
+help set_daemon
+Command usage: 
+  set_daemon <host>[:<port>] [trusted|untrusted]
+
+Command description: 
+  Set another daemon to connect to.
+
+
+help set_description
+Command usage: 
+  set_description [free text note]
+
+Command description: 
+  Set an arbitrary description for the wallet.
+
+
+help set_log
+Command usage: 
+  set_log <level>|{+,-,}<categories>
+
+Command description: 
+  Change the current log detail (level must be <0-4>).
+
+
+help set_ring
+Command usage: 
+  set_ring <filename> | ( <key_image> absolute|relative <index> [<index>...] )
+
+Command description: 
+  Set the ring used for a given key image, so it can be reused in a fork
+
+
+help set_tx_note
+Command usage: 
+  set_tx_note <txid> [free text note]
+
+Command description: 
+  Set an arbitrary string note for a <txid>.
+
+
+help show_transfer
+Command usage: 
+  show_transfer <txid>
+
+Command description: 
+  Show information about a transfer to/from this address.
+
+
+help show_transfers
+Command usage: 
+  show_transfers [in|out|pending|failed|pool] [index=<N1>[,<N2>,...]] [<min_height> [<max_height>]]
+
+Command description: 
+  Show the incoming/outgoing transfers within an optional height range.
+
+
+help sign
+Command usage: 
+  sign <file>
+
+Command description: 
+  Sign the contents of a file.
+
+
+help sign_transfer
+Command usage: 
+  sign_transfer [export_raw]
+
+Command description: 
+  Sign a transaction from a file. If the parameter "export_raw" is specified, transaction raw hex data suitable for the daemon RPC /sendrawtransaction is exported.
+
+
+help spendkey
+Command usage: 
+  spendkey
+
+Command description: 
+  Display the private spend key.
+
+
+help start_mining
+Command usage: 
+  start_mining [<number_of_threads>] [bg_mining] [ignore_battery]
+
+Command description: 
+  Start mining in the daemon (bg_mining and ignore_battery are optional booleans).
+
+
+help status
+Command usage: 
+  status
+
+Command description: 
+  Show the wallet's status.
+
+
+help stop_mining
+Command usage: 
+  stop_mining
+
+Command description: 
+  Stop mining in the daemon.
+
+
+help submit_transfer
+Command usage: 
+  submit_transfer
+
+Command description: 
+  Submit a signed transaction from a file.
+
+
+help sweep_all
+Command usage: 
+  sweep_all [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] <address> [<payment_id>]
+
+Command description: 
+  Send all unlocked balance to an address. If the parameter "index<N1>[,<N2>,...]" is specified, the wallet sweeps outputs received by those address indices. If omitted, the wallet randomly chooses an address index to be used.
+
+
+help sweep_below
+Command usage: 
+  sweep_below <amount_threshold> [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] <address> [<payment_id>]
+
+Command description: 
+  Send all unlocked outputs below the threshold to an address.
+
+
+help sweep_single
+Command usage: 
+  sweep_single [<priority>] [<ring_size>] <key_image> <address> [<payment_id>]
+
+Command description: 
+  Send a single output of the given key image to an address without change.
+
+
+help sweep_unmixable
+Command usage: 
+  sweep_unmixable
+
+Command description: 
+  Send all unmixable outputs to yourself with ring_size 1
+
+
+help transfer
+Command usage: 
+  transfer [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] <address> <amount> [<payment_id>]
+
+Command description: 
+  Transfer <amount> to <address>. If the parameter "index=<N1>[,<N2>,...]" is specified, the wallet uses outputs received by addresses of those indices. If omitted, the wallet randomly chooses address indices to be used. In any case, it tries its best not to combine outputs across multiple addresses. <priority> is the priority of the transaction. The higher the priority, the higher the transaction fee. Valid values in priority order (from lowest to highest) are: unimportant, normal, elevated, priority. If omitted, the default value (see the command "set priority") is used. <ring_size> is the number of inputs to include for untraceability. Multiple payments can be made at once by adding <address_2> <amount_2> etcetera (before the payment ID, if it's included)
+
+
+help transfer_original
+Command usage: 
+  transfer_original [index=<N1>[,<N2>,...]] [<priority>] [<ring_size>] <address> <amount> [<payment_id>]
+
+Command description: 
+  Transfer <amount> to <address> using an older transaction building algorithm. If the parameter "index=<N1>[,<N2>,...]" is specified, the wallet uses outputs received by addresses of those indices. If omitted, the wallet randomly chooses address indices to be used. In any case, it tries its best not to combine outputs across multiple addresses. <priority> is the priority of the transaction. The higher the priority, the higher the transaction fee. Valid values in priority order (from lowest to highest) are: unimportant, normal, elevated, priority. If omitted, the default value (see the command "set priority") is used. <ring_size> is the number of inputs to include for untraceability. Multiple payments can be made at once by adding <address_2> <amount_2> etcetera (before the payment ID, if it's included)
+
+
+help unblackball
+Command usage: 
+  unblackball <output public key>
+
+Command description: 
+  Unblackballs an output so it may get selected as a fake output in a ring
+
+
+help unspent_outputs
+Command usage: 
+  unspent_outputs [index=<N1>[,<N2>,...]] [<min_amount> [<max_amount>]]
+
+Command description: 
+  Show the unspent outputs of a specified address within an optional amount range.
+
+
+help verify
+Command usage: 
+  verify <filename> <address> <signature>
+
+Command description: 
+  Verify a signature on the contents of a file.
+
+
+help version
+Command usage: 
+  version
+
+Command description: 
+  Returns version information
+
+
+help viewkey
+Command usage: 
+  viewkey
+
+Command description: 
+  Display the private view key.
+
+
+help wallet_info
+Command usage: 
+  wallet_info
+
+Command description: 
+  Show the wallet's information.
+
+
