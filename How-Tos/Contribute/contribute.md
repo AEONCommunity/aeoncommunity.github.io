@@ -8,7 +8,7 @@
 <p>Possibly the most important first step to getting involved is to simply get informed on what is going on in the AEON world. The various community discussions provide this touchpoint, and by engaging here, you will learn a lot about how to contribute further.</p>
 
 <h3>Core Blockchain Discussions</h3>
-<p>The first place to keep up with core blockchain topics is on the <a href="https://github.com/aeonix/aeon">aeon github project</a>. The AEON developer team watches the issue discussions and enhancement proposals closely on github, and when there is a lot of community feedback here, it lets the Devs know which issues are important. You can click on the "Issues" tab or the "Pull requests" tab to find topics of discussion.</p>
+<p>The first place to keep up with core blockchain topics is on the <a href="https://github.com/aeonix/aeon">aeon github project</a>. The AEON developer team watches the issue discussions and enhancement proposals closely on github, and when there is a lot of community feedback here, it lets the Devs know which issues are important. You can click on the <b>Issues</b> tab or the <b>Pull requests</b> tab to find topics of discussion.</p>
 <p>Another place that the Devs hang out regularly is the AEON IRC channel. The IRC channel is a fine place to ask questions and get help as well. If you do not use an IRC client, there is a bridge that allows you to easily read the IRC chats from within the Discord community (see below).</p>
 
 <h3>Community Discussions</h3>
