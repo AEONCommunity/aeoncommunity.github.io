@@ -5,19 +5,17 @@
 <p>An open source project has a much better chance of surviving long-term if it's community is <b>active</b> in the project. Here are some ways you can get involved and contribute to the success of AEON.</p> 
 
 <h2>Follow the Community Discussions</h2>
-<p>Possibly the most important first step to getting involved is to simply get informed on what is going on in the AEON world. The various community discussions provide this touchpoint, and by engaging here, you will learn a lot about how to contribute further.</p>
+<p>Possibly the most important first step to getting involved is to simply get informed on what is going on in the AEON world. The various community discussions provide this touchpoint, and by engaging here, you will learn a lot about how to contribute further. We need more people discussing AEON, and giving their opinions and ideas for the project.  Progress will accelerate with increased discussion participation. Here are some of the important discussion locations.</p>
 
 <h3>Core Blockchain Discussions</h3>
 <p>The first place to keep up with core blockchain topics is on the <a href="https://github.com/aeonix/aeon">aeon github project</a>. The AEON developer team watches the issue discussions and enhancement proposals closely on github, and when there is a lot of community feedback here, it lets the Devs know which issues are important. You can click on the <b>Issues</b> tab or the <b>Pull requests</b> tab to find topics of discussion.</p>
-<p>Another place that the Devs hang out regularly is the AEON IRC channel. The IRC channel is a fine place to ask questions and get help as well. If you do not use an IRC client, there is a bridge that allows you to easily read the IRC chats from within the Discord community (see below).</p>
+<p>Another place that the Devs hang out regularly is the AEON IRC channel. The IRC channel is a fine place to ask questions and get help as well. If you do not have an IRC client, you can navigate to <a href="https://webchat.freenode.net/">webchat.freenode.net</a> and register a nickname to join the <b>#aeon</b> channel. There is also a bridge that allows you to easily read the IRC chats from within the Discord community (see below).</p>
 
 <h3>Community Discussions</h3>
 <p>There are several places which are more focused on general community discussions. These are places where you can ask questions, propose ideas, and get help with using AEON.</p> 
 
-*   the <a href="https://www.reddit.com/r/Aeon/">AEON sub-reddit</a>
-*   the <a href="https://discordapp.com/invite/TM8mEsx">AEON Discord community</a> is a great place to hang out, which has severl topic lobbies. Anyone can join in with comments and posts, and topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the aeon sub-reddit and the IRC channel.
-
-<p>We need more people discussing AEON, and giving their opinions and ideas for the project.  Progress will accelerate with increased discussion participation.</p>
+*   the <a href="https://www.reddit.com/r/Aeon/">AEON sub-reddit</a> is a place for the community to post and comment about AEON. It also has a great set of useful AEON-related links in the sidebar.
+*   the <a href="https://discordapp.com/invite/TM8mEsx">AEON Discord community</a> is a great place to hang out, which has severl topic lobbies. Topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the aeon sub-reddit and the IRC channel.
 
 <h2>Keep Up With the AEON Funding System</h2>
 <p>Using AEON's funding system, anyone can propose projects that would need some time and effort to complete. Note that a project can be something other than coding a new application. A minimum amount of required funding can be stated. The community can donate to the fund, and when the amount is reached, the project is considered "fully funded." Whoever completes the work will receive the funds. This is a great place to suggest project ideas, or for community members to find projects to work on.</p>
