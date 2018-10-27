@@ -13,6 +13,7 @@
 
 <h3>Community Discussions</h3>
 <p>There are several places which are more focused on general community discussions. These are places where you can ask questions, propose ideas, and get help with using AEON.</p> 
+
 *   the AEON sub-reddit
 *   the AEON Discord community is a great place to hang out, which has severl topic lobbies. Anyone can join in with comments and posts, and topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the aeon sub-reddit and the IRC channel.
 
@@ -38,9 +39,11 @@
 <h2>Develop/Test/Propose AEON Apps and Utilities</h2>
 <p>Beyond the core blockchain and wallet applications, there are many other useful apps that can be build to further the AEON project. If programming in C++ is not your thing, but you can program in another language, you can lend your talents to other coding projects.</p>
 <p>Examples of projects that have been done by the community are:</p>
+
 *   The <a href="https://aeonfunding.com">AEON Funding System</a>
 *   The <a href="https://aeonfunding.com">AEON API</a> site allows you to pay Bitcoin With AEON
 *   The <a href="https://betaeon.com>AEON Gambling site</a> allows you to bet AEON on the next block hash numbers
+  
 <p>If you are not a coder, but have an idea for a useful app, you can suggest it to the community and even submit a proposal for funding over at the <a href="https://aeonfunding.com">AEON Funding System</a>.</p>
 
 <h2>Develop And/Or Test the Core AEON Source Code</h2>
