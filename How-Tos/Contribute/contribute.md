@@ -14,8 +14,8 @@
 <h3>Community Discussions</h3>
 <p>There are several places which are more focused on general community discussions. These are places where you can ask questions, propose ideas, and get help with using AEON.</p> 
 
-*   the AEON sub-reddit
-*   the AEON Discord community is a great place to hang out, which has severl topic lobbies. Anyone can join in with comments and posts, and topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the aeon sub-reddit and the IRC channel.
+*   the <a href="https://www.reddit.com/r/Aeon/">AEON sub-reddit</a>
+*   the <a href="https://discordapp.com/invite/TM8mEsx">AEON Discord community</a> is a great place to hang out, which has severl topic lobbies. Anyone can join in with comments and posts, and topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the aeon sub-reddit and the IRC channel.
 
 <p>We need more people discussing AEON, and giving their opinions and ideas for the project.  Progress will accelerate with increased discussion participation.</p>
 
@@ -50,4 +50,5 @@
 <p>The AEON core blockchain and wallet apps are primarily written in C++.  If that is your language, feel free to peruse the source code, and offer to make any changes or fixes you think would be valuable. Pull requests are merged based on community consensus and core developer review. (<b>NOTE:</b> Currently AEON has a small team of core developers with expert ability and knowledge of the code. Without a solid background in this type of programming, it is unlikely that a person would make significant contributions to the project in this area.)</p>
 
 <h2>Spread The Word In Your Circles</h2>
+<p>For AEON to someday become a digital currency used by the masses, the word needs to spread to the masses that AEON exists as a solid option for a private, secure, and reliable digital currency. If you are reading this, you probably already know more about crypto currencies and AEON than most of your friends and family. Look for opportunities to introduce those you know to the concepts in general, and to AEON specifically.  Offer to help them get their feet wet in the digital currency world, by trying AEON first.  This is a fantastic way to contribute to the AEON project.</p>
 
