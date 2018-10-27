@@ -35,7 +35,7 @@
 <p>If you are able to document general information about AEON and how it fits into the world of blockchains and crypto currencies, feel free to create that content, and then ask where it should live.  And lastly, if you find any existing content that is wrong or out of date, please inform the content owner or the community, so it can be updated. (If the content source is available on github, feel free to update things yourself, and submit a pull-request to that repository.)</p>
 
 <h2>Develop/Test/Propose AEON Apps and Utilities</h2>
-<p>Beyond the core blockchain and wallet applications, there are many other useful apps that can be build to further the AEON project. If programming in C++ is not your thing, but you can program in another language, you can lend your talents to other coding projects.</p>
+<p>Beyond the core blockchain and wallet applications, there are many other useful apps that can be built to further the AEON project. If programming in C++ is not your thing, but you can program in another language, you can lend your talents to other coding projects.</p>
 <p>Examples of projects that have been done by the community are:</p>
 
 *   The <a href="https://aeonfunding.com">AEON Funding System</a>
