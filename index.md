@@ -4,6 +4,10 @@ This site will contain some How-To's for the AEON digital currency.
 
 Find out more about AEON at [the official website](https://www.aeon.cash).
 
+## AEON Needs Your Help
+
+Here is an article on [How To Contribute To The AEON Project](./How-Tos/Contribute/contribute.md).
+      
 ## Using AEON on Ubuntu
 
 I am a Linux guy, so the first articles here will focus on how to get going with AEON on Ubuntu. A lot of
