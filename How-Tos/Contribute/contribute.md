@@ -39,7 +39,7 @@
 <p>Examples of projects that have been done by the community are:</p>
 
 *   The <a href="https://aeonfunding.com">AEON Funding System</a>
-*   The <a href="https://aeonfunding.com">AEON API site</a> (allows you to pay to a Bitcoin address with AEON)
+*   The <a href="https://aeonapi.com/">AEON API site</a> (allows you to pay to a Bitcoin address with AEON)
 *   The <a href="https://betaeon.win">AEON Gambling site</a> (allows you to bet AEON on the next block hash numbers)
   
 <p>If you are not a coder, but have an idea for a useful app, you can suggest it to the community and even submit a proposal for funding over at the <a href="https://aeonfunding.com">AEON Funding System</a>.</p>
