@@ -31,7 +31,7 @@
 
 <h2>Be an AEON Content Creator</h2>
 <p>It has been said that "content is king" on the internet, and there is validity in the statement. For people who are new to crypto currencies and AEON, there is a need for information which is readily available and easy to understand.</p> 
-<p>A number of "How-To" guides have already been written by community members, but more is better. If you learn how to do something and there is not already a guide for that, feel free to write one! If you aren't sure where to post it, ask the community, and someone will find a spot for your content to live online.</p>
+<p>A number of "How-To" guides have already been written by community members, but more is better. If you learn how to do something and there is not already a guide for that, please write one! If you aren't sure where to post it, ask the community, and someone will find a spot for your content to live online.</p>
 <p>If you are able to document general information about AEON and how it fits into the world of blockchains and crypto currencies, feel free to create that content, and then ask where it should live.  And lastly, if you find any existing content that is wrong or out of date, please inform the content owner or the community, so it can be updated. (If the content source is available on github, feel free to update things yourself, and submit a pull-request to that repository.)</p>
 
 <h2>Develop/Test/Propose AEON Apps and Utilities</h2>
