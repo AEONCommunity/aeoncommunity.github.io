@@ -20,14 +20,11 @@
 <h2>Keep Up With the AEON Funding System</h2>
 <p>Using <a href="https://aeonfunding.com/">AEON's funding system</a>, anyone can propose projects that would need some time and effort to complete. Note that a project can be something other than coding a new application. A minimum amount of required funding can be stated. The community can donate to the fund, and when the amount is reached, the project is considered "fully funded." Whoever completes the work will receive the funds. This is a great place to suggest project ideas, or for community members to find projects to work on.</p>
 
-<h2>Run a Full Node</h2>
-<p>Instead of running your wallet using a remote node, you can run your own node (aeond) on your own computer.  Once you have aeond set up, then you can let it run with port 11180 open. This will not only give you maximum privacy with your transactions, it will also allow your node to participate in distributing the blockchain to new users.</p>
+<h2>Run a Full Local Node or Public Node</h2>
+<p>Instead of running your wallet using a remote node, you can run your own node (aeond) on your own computer.  Once you have aeond set up, then you can let it run with port 11180 open. This will not only give you maximum privacy with your transactions, it will also allow your node to participate in distributing the blockchain to new users. If you do not have the storage or bandwidth to run a local node, you can use a virtual machine on the internet to run a full node. For information on how to set up a public node <b>for free</b> on the AWS Cloud, <a href="https://medium.com/@AEON_Community/setting-up-an-amazon-aws-aeon-public-node-on-a-free-ec2-instance-b6952a598cdc">read this How-To</a>.</p>
 
 <h2>Mine For AEON</h2>
 <p>The more miners on the network, the more decentralized and secure the network remains. You can easily start mining with the <b>start_mining</b> command in the aeond application or the aeon-wallet-cli application. (<b>NOTE:</b> This method of mining will not likely succeed in acquiring any AEON coins, but will still contribute to network decentralization. To successfully mine AEON coins, you will most likely use a separate mining application with an online mining pool.)</p>
-
-<h2>Run A Public Node</h2>
-<p>Even better than running a full node on your local machine, you can use a virtual machine on the internet to run a full node, and allow others to connect their wallets to your node.  The more public nodes on the network, the more decentralized the network will remain. Users who cannot run a full node locally need a good selection of available public nodes to choose from.  For information on how to set up a public node <b>for free</b> on the AWS Cloud, <a href="https://medium.com/@AEON_Community/setting-up-an-amazon-aws-aeon-public-node-on-a-free-ec2-instance-b6952a598cdc">read this How-To</a>.</p>
 
 <h2>Be an AEON Content Creator</h2>
 <p>It has been said that "content is king" on the internet, and there is validity in the statement. For people who are new to crypto currencies and AEON, there is a need for information which is readily available and easy to understand.</p> 
@@ -45,7 +42,7 @@
 <p>If you are not a coder, but have an idea for a useful app, you can suggest it to the community and even submit a proposal for funding over at the <a href="https://aeonfunding.com">AEON Funding System</a>.</p>
 
 <h2>Develop And/Or Test the Core AEON Source Code</h2>
-<p>The AEON core blockchain and wallet apps are primarily written in C++.  If that is your language, feel free to peruse the source code, and offer to make any changes or fixes you think would be valuable. Pull requests are merged based on community consensus and core developer review. (<b>NOTE:</b> Currently AEON has a small team of core developers with expert ability and knowledge of the code. Without a solid background in this type of programming, it is unlikely that a person would make significant contributions to the project in this area.)</p>
+<p>The AEON core blockchain and wallet apps are primarily written in C++.  If that is your language, feel free to peruse the source code, and offer to make any changes or fixes you think would be valuable. Pull requests are merged based on community consensus and core developer review.</p>
 
 <h2>Spread The Word In Your Circles</h2>
 <p>For AEON to someday become a digital currency used by the masses, the word needs to spread that AEON exists as a solid option for a private, secure, and reliable digital currency. If you are reading this, you probably already know more about crypto currencies and AEON than most of your friends and family. Look for opportunities to introduce them to the concepts of crypto currencies.  Offer to help them get their feet wet in the digital currency world, by introducing them to AEON.  This is a fantastic way to contribute to the AEON project.</p>
