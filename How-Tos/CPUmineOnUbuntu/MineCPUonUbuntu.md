@@ -33,24 +33,24 @@ version of Ubuntu.</p>
 
 <p><b>NOTE:  </b>In the pictures below, each command begins
 after the command prompt.  On my system, the command prompt always starts with 
-“<b>minnow@faramir:</b>” followed by the current directory path, and ends with the dollar 
-sign character (<b>$</b>).  So the first command in the below picture is “mkdir App”.  As you
+â€œ<b>minnow@faramir:</b>â€ followed by the current directory path, and ends with the dollar 
+sign character (<b>$</b>).  So the first command in the below picture is â€œmkdir Appâ€.  As you
 follow along, type the commands after your command prompt in your terminal
 window, and press the Enter key after typing each command.</p>
 
 <p>First, we should set up a directory for our aeon apps.  It
 will hold any versions of Aeon we install, and any mining software we may
 install later.  I will create a new directory within my home directory, called
-“App”.  If you choose a different name, be sure to use your directory name in
-place of “App” in any below commands.</p>
+â€œAppâ€.  If you choose a different name, be sure to use your directory name in
+place of â€œAppâ€ in any below commands.</p>
 
 <img src="prep1.PNG">
 
 <p>Next I will unpack the file I downloaded, into the App
-directory, using the “tar” command. In the picture below, the command is on the
-first line.  This assumes you downloaded AEON to your “Downloads” directory. 
+directory, using the â€œtarâ€ command. In the picture below, the command is on the
+first line.  This assumes you downloaded AEON to your â€œDownloadsâ€ directory. 
 If you downloaded it to a different location, you will need to replace
-“./Downloads/” with the correct directory of the file on your machine.</p>
+â€œ./Downloads/â€ with the correct directory of the file on your machine.</p>
 
 <p><b>NOTE:</b>  The period-followed-by-slash (./) in the commands signifies "the current
 directory".  I am running this command from my home directory, and the "Downloads" and "App"
@@ -60,16 +60,16 @@ directories are both located there.  That is why you see
 <img src="prep2.PNG">
 
 <p>From the 4 lines of output above, we can see that a new
-directory was created inside our App directory, called “<b>xmrig-2.8.3</b>”. 
+directory was created inside our App directory, called â€œ<b>xmrig-2.8.3</b>â€. 
 All of the provided files now exist within that sub-directory.</p>
 
 <p>To validate that everything looks right, you can use the
-“cd” command to change to the new directory, and the “ls” command to list all
+â€œcdâ€ command to change to the new directory, and the â€œlsâ€ command to list all
 the files in that directory.  This is shown in the below picture:</p>
 
 <img src="prep3.PNG">
 
-<p>Notice the 3 files listed below the “ls” command. The <b>config.json</b> file allows us to configure the mining application to run as we desire and connect to the correct mining pool. The <b>xmrig</b> file is the binary application that we will run from the command line from within this directory.</p>
+<p>Notice the 3 files listed below the â€œlsâ€ command. The <b>config.json</b> file allows us to configure the mining application to run as we desire and connect to the correct mining pool. The <b>xmrig</b> file is the binary application that we will run from the command line from within this directory.</p>
 <p>&nbsp; </p>
 
 <h1>Configure XMRig</h1>
@@ -113,7 +113,7 @@ the files in that directory.  This is shown in the below picture:</p>
 <h2>Configuring "Huge Pages"</h2>
 <p>On Linux systems it has been shown that activating "huge pages" memory can provide up to a 10% increase in hash rates when mining. To check whether your system is using huge pages, you can type the following command in a terminal window:</p>
 
-<p>          <span style='font-family:"Courier New"'>/sbin/sysctl vm.nr_hugepages</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>/sbin/sysctl vm.nr_hugepages</span></p>
 
 <p>If huge pages is active, you should see a value like 128 as shown in the image below:</p>
 
@@ -121,8 +121,8 @@ the files in that directory.  This is shown in the below picture:</p>
 
 <p>If you instead see a message that it cannot find the file or value, then you will need to enter the following commands to activate huge pages: </p>
 
-<p>          <span style='font-family:"Courier New"'>sudo /sbin/sysctl -w vm.nr_hugepages=128</span></p>
-<p>          <span style='font-family:"Courier New"'>sudo printf "\nvm.nr_hugepages=128\n" >> /etc/sysctl.conf
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>sudo /sbin/sysctl -w vm.nr_hugepages=128</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>sudo printf "\nvm.nr_hugepages=128\n" >> /etc/sysctl.conf
 </span></p>
 
 <p>After the above commands, you should be able to run the first command again, and see the proper output that the value = 128, as in the above picture. Now you are ready to mine!</p>
@@ -132,7 +132,7 @@ the files in that directory.  This is shown in the below picture:</p>
 <h1>Start Mining!</h1>
 <p>If you have successfully made it this far, you are ready to begin mining! From within your xmrig subdirectory, launch your miner with the following command in your terminal window:</p>
 
-<p>          <span style='font-family:"Courier New"'>./xmrig -c config.json</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>./xmrig -c config.json</span></p>
 
 <img src="mining1.PNG">
 
