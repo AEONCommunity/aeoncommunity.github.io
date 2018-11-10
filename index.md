@@ -15,6 +15,6 @@ this will apply to other flavors of Linux as well, especially Ubuntu derivatives
 
 *   How To: [Setup AEON Command Line Wallet on Ubuntu](./How-Tos/SetupAEONcliUbuntu/SetupAEON_Ubuntu.md).
 *   How To: [Mine with CPU on Ubuntu Using XMRig](./How-Tos/CPUmineOnUbuntu/MineCPUonUbuntu.md).
-      
+*   How To: [Build AEON GUI From Source on Ubuntu](./How-Tos/buildAeonGuiUbuntu/BuildAeonGUI_Ubuntu.md).
 
 Come back again sometime ... there may be more How-To's by then!
