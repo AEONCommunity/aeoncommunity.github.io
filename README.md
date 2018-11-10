@@ -1,5 +1,5 @@
 # aeon-coin-info
-This site is a collection point for various information about AEON. It hosts some how-to's for AEON coin, and also links to how-to's that are hosted in other places.
+[This github pages site](https://thriftyminnow.github.io/aeon-coin-info/) is a collection point for various information about AEON. It hosts some how-to's for AEON coin, and also links to how-to's that are hosted in other places.
 
 ## Vision for This Site
 Going forward, the site may grow to host or link to other kinds of useful AEON information, as it makes sense.
