@@ -15,7 +15,7 @@
 
 <p>We can install all needed dependencies with a single long command:</p>
 
-<p>          <span style='font-family:"Courier New"'>sudo apt install build-essential cmake libboost-all-dev miniupnpc libunbound-dev graphviz doxygen libunwind8-dev pkg-config libssl-dev libzmq3-dev git libsodium-dev</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>sudo apt install build-essential cmake libboost-all-dev miniupnpc libunbound-dev graphviz doxygen libunwind8-dev pkg-config libssl-dev libzmq3-dev git libsodium-dev</span></p>
 
 <p>Note that you must have administrator privileges to run the above command, and you may be prompted to enter your password first.</p>
 
@@ -27,7 +27,7 @@
 <h2>Using Ubuntu 17.10+</h2>
 <p><b>IF YOU ARE USING UBUNTU 17.10 OR LATER</b> you can install Qt with the following command:</p>
 
-<p>          <span style='font-family:"Courier New"'>sudo apt install qtbase5-dev qt5-default qtdeclarative5-dev qml-module-qtquick-controls qml-module-qtquick-controls2 qml-module-qtquick-dialogs qml-module-qtquick-xmllistmodel qml-module-qt-labs-settings qml-module-qt-labs-folderlistmodel qttools5-dev-tools</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>sudo apt install qtbase5-dev qt5-default qtdeclarative5-dev qml-module-qtquick-controls qml-module-qtquick-controls2 qml-module-qtquick-dialogs qml-module-qtquick-xmllistmodel qml-module-qt-labs-settings qml-module-qt-labs-folderlistmodel qttools5-dev-tools</span></p>
 
 <p>After Qt successfully installs, you can skip to the <b>Build AEON GUI</b> section below.</p>
 
@@ -47,7 +47,7 @@ https://download.qt.io/archive/qt/5.11/5.11.2/single/</a></p>
 
 <p>Unarchive the downloaded source code with the following command, from your home directory:</p>
 
-<p>          <span style='font-family:"Courier New"'>tar -xJvf ./Downloads/qt-everywhere-src-5.11.2.tar.xz -C ./App</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>tar -xJvf ./Downloads/qt-everywhere-src-5.11.2.tar.xz -C ./App</span></p>
 
 <p>This will unpack many, many source files to a new <b>qt-everywhere-src</b> sub-directory within your ./App directory. Use the <b>cd</b> and <b>ls</b> commands to see the contents, shown in the picture below.</p>
 
@@ -55,13 +55,13 @@ https://download.qt.io/archive/qt/5.11/5.11.2/single/</a></p>
 
 <p>Before building Qt, there are additional dependencies needed. Make sure these are installed with the following commands:</p>
 
-<p>          <span style='font-family:"Courier New"'>sudo apt install perl python '^libxcb.*-dev' libx11-xcb-dev libglu1-mesa-dev libxrender-dev libxi-dev flex bison gperf libicu-dev libxslt-dev ruby libasound2-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>sudo apt install perl python '^libxcb.*-dev' libx11-xcb-dev libglu1-mesa-dev libxrender-dev libxi-dev flex bison gperf libicu-dev libxslt-dev ruby libasound2-dev libgstreamer0.10-dev libgstreamer-plugins-base0.10-dev</span></p>
 
-<p>          <span style='font-family:"Courier New"'>sudo apt install libssl-dev libxcursor-dev libxcomposite-dev libxdamage-dev libxrandr-dev libdbus-1-dev libfontconfig1-dev libcap-dev libxtst-dev libpulse-dev libudev-dev libpci-dev libnss3-dev libxss-dev libegl1-mesa-dev libclang-3.9-dev</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>sudo apt install libssl-dev libxcursor-dev libxcomposite-dev libxdamage-dev libxrandr-dev libdbus-1-dev libfontconfig1-dev libcap-dev libxtst-dev libpulse-dev libudev-dev libpci-dev libnss3-dev libxss-dev libegl1-mesa-dev libclang-3.9-dev</span></p>
 
 <p>Now, make sure you are in the sub-directory where your Qt source files were unpacked, and enter the following command to prepare the Qt build files:</p>
 
-<p>          <span style='font-family:"Courier New"'>./configure -developer-build -opensource -nomake examples -nomake tests -confirm-license</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>./configure -developer-build -opensource -nomake examples -nomake tests -confirm-license</span></p>
 
 <p>The configure program will check your system for the required libraries and components, and create the build files for your system. If successful, you will see the below message. (NOTE: if instead you see an error, you may need to install another library package using the "sudo apt install ..." command again.)</p>
 
@@ -80,16 +80,16 @@ https://download.qt.io/archive/qt/5.11/5.11.2/single/</a></p>
 <h2>Get the Source Code</h2>
 <p>First, get the source code by cloning the GitHub repository. Enter the following command in your terminal. Note that this will create a new sub-directory within the directory that you run the command, called <b>aeon-gui</b>, and place all the source code there. I ran this command from within my <b>./App</b> directory.</p>
 
-<p>          <span style='font-family:"Courier New"'>git clone https://github.com/aeonix/aeon-gui.git</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>git clone https://github.com/aeonix/aeon-gui.git</span></p>
 
 <p>Now, change directories to the <b>aeon-gui</b> sub-directory:</p>
 
-<p>          <span style='font-family:"Courier New"'>cd ./aeon-gui</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>cd ./aeon-gui</span></p>
 
 <h2>Fix the Broken Library</h2>
 <p>At the time of writing this guide, there is a missing library in the file:</p>
 
-<p>          <span style='font-family:"Courier New"'>aeon-gui/aeon-wallet-gui.pro</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>aeon-gui/aeon-wallet-gui.pro</span></p>
 
 <p>To fix this issue, edit the above file in your favorite editor, go to line 116, and <b>if you don't see it already</b>, add the line that is highlighted below:</p>
 
@@ -116,7 +116,7 @@ LIBS += -L$$WALLET_ROOT/lib \ <br>
 <h2>Launch The Build</h2>
 <p>Run the build with the following command, from within the <b>aeon-gui</b> sub-directory:</p>
 
-<p>          <span style='font-family:"Courier New"'>./build.sh</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>./build.sh</span></p>
 
 <p>If the build finishes without errors, you can check for the expected binary files in the <b>./aeon-gui/build/release/bin/</b> sub-directory.  Use the <b>cd</b> command and <b>ls</b> commands as shown below.</p>
 
@@ -127,7 +127,7 @@ LIBS += -L$$WALLET_ROOT/lib \ <br>
 
 <p>You can now run the AEON GUI from the <b>bin</b> directory.  Assuming you are in the build directory, run AEON GUI with the following command:</p>
 
-<p>          <span style='font-family:"Courier New"'>./aeon-wallet-gui</span></p>
+<p>Â Â Â Â Â Â Â Â Â Â <span style='font-family:"Courier New"'>./aeon-wallet-gui</span></p>
 
 <p>Note that at the time of this writing there are several known <b>WARN</b> logs that will appear in the terminal window when you run the wallet. As long as they are WARN, the wallet will still run correctly. You should see the screen below.</p>
 
