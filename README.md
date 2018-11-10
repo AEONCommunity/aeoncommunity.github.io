@@ -22,7 +22,7 @@ Contributions are encouraged!
 *   **Corrections:**  Feel free to open an issue, or just make a Pull Request.  
 *   **Site Suggestions:** Open an issue for discussion of any theme/style/layout ideas.
 *   **Link to a How-To:** If you want an AEON how-to linked from here, open an issue and I will add it.
-*   **Hosting a How-To:** If you want to write a How-To and host it here, use the content in the **How-Tos** folder as examples. Create a branch with a new How-To sub-folder. When the how-to is ready, add a link to it from the main **index.md** file, and do a Pull Request.
+*   **Hosting a How-To:** If you want to write a How-To and host it here, use the content in the **How-Tos** folder as examples. Create a branch and add a new How-To sub-folder. When the how-to is ready, add a link to it from the main **index.md** file, and do a Pull Request.
 
 If I don't respond here on github right away, I am fairly active over on the AEON Discord community, and there is a **publications** topic there which I watch.
 
