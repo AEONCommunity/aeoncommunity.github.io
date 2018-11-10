@@ -6,7 +6,7 @@ Find out more about AEON at [the official website](https://www.aeon.cash).
 
 ## AEON Needs Your Help
 
-Here is an article on [How To Contribute To The AEON Project](./How-Tos/Contribute/contribute.md).
+*   How To: [Contribute To The AEON Project](./How-Tos/Contribute/contribute.md).
       
 ## Using AEON on Ubuntu
 
@@ -16,5 +16,9 @@ this will apply to other flavors of Linux as well, especially Ubuntu derivatives
 *   How To: [Setup AEON Command Line Wallet on Ubuntu](./How-Tos/SetupAEONcliUbuntu/SetupAEON_Ubuntu.md).
 *   How To: [Mine with CPU on Ubuntu Using XMRig](./How-Tos/CPUmineOnUbuntu/MineCPUonUbuntu.md).
 *   How To: [Build AEON GUI From Source on Ubuntu](./How-Tos/buildAeonGuiUbuntu/BuildAeonGUI_Ubuntu.md).
+
+## Using AEON GUI Wallet
+
+*   How To: [Download and Set Up a Wallet with AEON GUI](https://medium.com/@AEON_Community/how-to-downloading-and-setting-up-a-wallet-with-aeon-gui-f48647e6d9f6).
 
 Come back again sometime ... there may be more How-To's by then!
