@@ -17,9 +17,12 @@ In the main project directory:
 *   **information/** is a folder to upload other information (nothing links to this yet).
 
 ## Contributing Here
-Contributions are encouraged! If you see something obvious that needs corrected, feel free to open an issue, or make a Pull Request.  If you have an idea for a better layout/theme/organizational structure, please open an issue for discussion first. 
+Contributions are encouraged! 
 
-If you want to write a How-To, and get it hosted here, use the content in the **How-Tos** folder as examples. Each How-Tos sub-folder contains all of the content for a single how-to article. There is typically 1 ".md" file for the text, and multiple image files.  The ".md" file is the expected github pages markdown/html format.  Once the how-to is ready, add a link to it from the main **index.md** file, and do a Pull Request.
+*   **Corrections:**  Feel free to open an issue, or just make a Pull Request.  
+*   **Site Suggestions:** Open an issue for discussion of any theme/style/layout ideas.
+*   **Link to a How-To:** If you want an AEON how-to linked from here, open an issue and I will add it.
+*   **Hosting a How-To:** If you want to write a How-To and host it here, use the content in the **How-Tos** folder as examples. Create a branch with a new How-To sub-folder. When the how-to is ready, add a link to it from the main **index.md** file, and do a Pull Request.
 
 If I don't respond here on github right away, I am fairly active over on the AEON Discord community, and there is a **publications** topic there which I watch.
 
