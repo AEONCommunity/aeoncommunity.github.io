@@ -125,7 +125,8 @@ LIBS += -L$$WALLET_ROOT/lib \ <br>
 <p>If your build succeeded, you will see the 2 files shown in the picture, <b>aeond</b> and <b>aeon-wallet-gui</b>.
 <p>&nbsp; </p>
 
-<p>You can now run the AEON GUI from the <b>bin</b> directory.  Assuming you are in the build directory, run AEON GUI with the following command:</p>
+<h1>Run the AEON GUI Wallet</h1>
+<p>You can now run the AEON GUI from the <b>bin</b> directory.  Run AEON GUI with the following command:</p>
 
 <p>          <span style='font-family:"Courier New"'>./aeon-wallet-gui</span></p>
 
