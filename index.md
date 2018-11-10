@@ -1,6 +1,6 @@
 # Welcome!
 
-This site will contain some How-To's and other useful information about the AEON digital currency.
+This site will contain some How-To's and Wherefores about the AEON digital currency.
 
 Find out more about AEON at [the official website](https://www.aeon.cash).
 
