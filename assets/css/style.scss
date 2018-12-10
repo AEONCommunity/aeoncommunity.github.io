@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
 h1, h2, h3, h4, h5, h6 {
   color:#444444ff;
   margin:0 0 20px;
@@ -27,6 +28,77 @@ a small {
 a:hover small {
   color:#777;
 }
+
+
+:root {
+  --color1: #5fbcd3;
+  --color2: #2c89a0;
+  --color3: #164450;
+  --color4: #444444;
+  --color5: #ffffff;
+  --color6: #f2f2f2;
+}
+body {
+  margin: 0;
+  background-color: var(--color6);
+  color: var(--color4);
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+}
+a {
+  color: var(--color2);
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h2 > a {
+  color: var(--color4);
+  text-decoration: none;
+}
+h2 > a:hover {
+  color: var(--color2);
+  text-decoration: none;
+}
+h1, h2, h3 {
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+}
+h2 {
+  border-bottom-color: var(--color4);
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  cursor: pointer;
+}
+h3 {
+  padding-left: 10px;
+}
+ul {
+  padding-left: 30px;
+}
+input[type=checkbox] {
+  display: none;
+}
+.panel {
+  height: auto;
+  opacity: 1;
+  transition: 1s;
+  overflow: hidden;
+}
+input[type=checkbox]:checked+label+.panel {
+  z-index: -1;
+  height: 0px;
+  opacity: 0;
+  transition: 1s;
+}
+.text-left {
+  text-align: left;
+}
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: var(--color4);
+  margin: 60px 0px 0px 0px;
+}
+
 
 .wrapper {
   width:960px;
