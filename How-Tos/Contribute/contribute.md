@@ -1,3 +1,7 @@
+---
+permalink: contribute.html
+---
+
 <h1>How To Contribute to the AEON Project</h1>
 
 <p>AEON is an open source project, and therefore it's life comes from the <b>AEON community</b>; the regular people who decide to follow the project.</p>
