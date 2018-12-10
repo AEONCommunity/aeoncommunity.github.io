@@ -1,5 +1,5 @@
 ---
-permalink: contribute.html
+permalink: ./How-Tos/Contribute/contribute.html
 ---
 
 <h1>How To Contribute to the AEON Project</h1>
