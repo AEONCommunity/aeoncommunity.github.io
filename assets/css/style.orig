@@ -1,0 +1,75 @@
+---
+---
+
+@import "{{ site.theme }}";
+h1, h2, h3, h4, h5, h6 {
+  color:#444444ff;
+  margin:0 0 20px;
+}
+
+a {
+  color:#2c89a0ff;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color:#164450ff;
+  font-weight: bold;
+}
+
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#777;
+}
+
+.wrapper {
+  width:960px;
+  margin:0 auto;
+}
+
+section {
+  width:600px;
+  float:right;
+  padding-bottom:50px;
+}
+
+@media print, screen and (max-width: 980px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+  header {
+    padding-right:220px;
+  }
+
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
+  }
+
+  header a small {
+    display:inline;
+  }
+
+  header ul {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }
+}
