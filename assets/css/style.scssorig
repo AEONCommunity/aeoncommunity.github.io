@@ -1,6 +1,6 @@
 ---
 ---
-
+/*
 @import "{{ site.theme }}";
 h1, h2, h3, h4, h5, h6 {
   color:#444444ff;
@@ -73,3 +73,4 @@ section {
     top:52px;
   }
 }
+*/
