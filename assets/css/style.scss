@@ -8,16 +8,6 @@
   margin:0 0 20px;
 }
 
-a {
-  color:#2c89a0ff;
-  text-decoration:none;
-}
-
-a:hover, a:focus {
-  color:#164450ff;
-  font-weight: bold;
-}
-
 a small {
   font-size:11px;
   color:#777;
@@ -50,8 +40,6 @@ a {
 }
 a:hover, a:focus {
   text-decoration: underline;
-  //color: var(--color3);
-  //font-weight: bold;
 }
 /* h2 > a {
   color: var(--color4);
