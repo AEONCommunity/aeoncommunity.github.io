@@ -1,3 +1,7 @@
+---
+permalink: ./How-Tos/CPUmineOnUbuntu/MineCPUonUbuntu.html
+---
+
 <h1>Mine AEON With Your CPU on Ubuntu</h1>
 
 <p>This How-To will show the steps to start mining AEON with your Linux computer, using Ubuntu as the example.</p>

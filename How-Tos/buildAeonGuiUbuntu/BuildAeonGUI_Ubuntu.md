@@ -1,3 +1,7 @@
+---
+permalink: ./How-Tos/buildAeonGuiUbuntu/BuildAeonGUI_Ubuntu.html
+---
+
 <h1>Build AEON GUI on Ubuntu</h1>
 
 <p>This How-To will show the steps to build the AEON GUI wallet on Ubuntu.</p>

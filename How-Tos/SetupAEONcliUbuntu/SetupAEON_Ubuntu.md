@@ -1,3 +1,6 @@
+---
+permalink: ./How-Tos/SetupAEONcliUbuntu/SetupAEON_Ubuntu.html
+---
 
 <h1>Setup AEON Command Line Wallet on Ubuntu</h1>
 
