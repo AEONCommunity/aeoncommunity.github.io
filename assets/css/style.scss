@@ -115,6 +115,11 @@ section {
 
   header {
     padding-right:220px;
+    a:hover, a:focus {
+      color: var(--color2);
+      font-weight: bold;
+      text-decoration: underline;
+    }
   }
 
   section {
