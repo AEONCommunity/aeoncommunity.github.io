@@ -14,7 +14,7 @@ a:hover small {
   color:#777;
 }
 
-
+/* styles for the accordion content area follow... */
 :root {
   --color1: #5fbcd3;
   --color2: #2c89a0;
@@ -32,11 +32,9 @@ body {
 a {
   color: var(--color2);
   text-decoration: none;
-  //font-weight: normal;
 }
 a:hover, a:focus {
   color: var(--color2);
-  //font-weight: normal;
   text-decoration: underline;
 }
 /* h2 > a {
@@ -57,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
   cursor: pointer;
 }
 .container a:hover, a:focus {
-  //font-weight: normal;
+  font-weight: normal;
 }
 h3 {
   padding-left: 10px;
@@ -83,15 +81,12 @@ input[type=checkbox]:checked+label+.panel {
 .text-left {
   text-align: left;
 }
-/*footer {
-  width: 100%;
-  height: 50px;
-  background-color: var(--color4);
-  margin: 60px 0px 0px 0px;
-}
-*/
 
-
+/* Jekyll theme layout style below this point.
+ * header = the upper left showing the site title/logo
+ * footer = the lower left attributions
+ * section = the main content area, with the accordion sections
+ */
 .wrapper {
   width:960px;
   margin:0 auto;
