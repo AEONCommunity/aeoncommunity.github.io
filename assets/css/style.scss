@@ -36,7 +36,7 @@ a {
 }
 a:hover, a:focus {
   color: var(--color2);
-  font-weight: normal;
+  //font-weight: normal;
   text-decoration: underline;
 }
 /* h2 > a {
@@ -55,6 +55,9 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   cursor: pointer;
+}
+.container a:hover, a:focus {
+  font-weight: normal;
 }
 h3 {
   padding-left: 10px;
