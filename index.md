@@ -19,7 +19,7 @@
     <div class="row center-xs">
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
         <h1>Welcome</h1>
-        <p>This site will contain some How-To's and Wherefores of the Aeon digital currency.</p>
+        <p>This site will contain some How-To's and Wherefores of the AEON digital currency.</p>
 
         <input type="checkbox" name="accordion" id="get-started" checked>
         <label for="get-started"><h2>Get Started</h2></label>
