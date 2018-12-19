@@ -35,6 +35,13 @@
           {{ using | markdownify }}
         </div>
 
+        <input type="checkbox" name="accordion" id="recent-news" checked>
+        <label for="recent-news"><h2>Recent News</h2></label>
+        <div class="panel">
+          {% capture recent-news %}{% include recent-news.md %}{% endcapture %}
+          {{ recent-news | markdownify }}
+        </div>
+
         <input type="checkbox" name="accordion" id="mining" checked>
         <label for="mining"><h2>Mining</h2></label>
         <div class="panel">
@@ -54,13 +61,6 @@
         <div class="panel">
           {% capture developer-guides %}{% include developer-guides.md %}{% endcapture %}
           {{ developer-guides | markdownify }}
-        </div>
-
-        <input type="checkbox" name="accordion" id="recent-news" checked>
-        <label for="recent-news"><h2>Recent News</h2></label>
-        <div class="panel">
-          {% capture recent-news %}{% include recent-news.md %}{% endcapture %}
-          {{ recent-news | markdownify }}
         </div>
 
         <input type="checkbox" name="accordion" id="community" checked>
