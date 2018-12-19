@@ -42,13 +42,6 @@
           {{ mining | markdownify }}
         </div>
 
-        <input type="checkbox" name="accordion" id="accepting" checked>
-        <label for="accepting"><h2>Accepting</h2></label>
-        <div class="panel">
-          {% capture accepting %}{% include accepting.md %}{% endcapture %}
-          {{ accepting | markdownify }}
-        </div>
-
         <input type="checkbox" name="accordion" id="contributing" checked>
         <label for="contributing"><h2>Contributing</h2></label>
         <div class="panel">
