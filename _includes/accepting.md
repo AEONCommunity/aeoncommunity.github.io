@@ -1,3 +1,0 @@
-- [bla bla bla](#) [text]
-- [bla bla bla](#) [text]
-- [bla bla bla](#) [text]
