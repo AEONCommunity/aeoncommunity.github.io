@@ -29,6 +29,13 @@
           {{ official_resources | markdownify }}
         </div>
 
+        <input type="checkbox" name="accordion" id="resources" checked>
+        <label for="resources"><h2>Resources</h2></label>
+        <div class="panel">
+          {% capture resources %}{% include resources.md %}{% endcapture %}
+          {{ resources | markdownify }}
+        </div>
+
         <input type="checkbox" name="accordion" id="support" checked>
         <label for="support"><h2>Support</h2></label>
         <div class="panel">

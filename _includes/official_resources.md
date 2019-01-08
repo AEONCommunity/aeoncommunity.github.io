@@ -6,5 +6,4 @@ Athough AEOn is community driven, official resources are considered to be those 
 
 [BitcoinTalk](https://bitcointalk.org/index.php?topic=641696.0)
 
-[Reddit](https://www.reddit.com/r/Aeon/)
-
+The IRC server is located at #aeon on freenode.
