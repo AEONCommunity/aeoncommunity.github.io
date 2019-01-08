@@ -1,2 +1,5 @@
-* [How To Contribute To The AEON Project](./How-Tos/Contribute/contribute.html)
-* [Set Up an AEON Public Node with a FREE AWS Instance](https://medium.com/@AEON_Community/setting-up-an-amazon-aws-aeon-public-node-on-a-free-ec2-instance-b6952a598cdc) (at medium.com)
+A general guide for how to contribute is located [here](./How-Tos/Contribute/contribute.html).
+
+
+A job list is kept [here](./_includes/job_list.md).
+

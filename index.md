@@ -18,8 +18,9 @@
   <div class="container">
     <div class="row center-xs">
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
-        <h1>Welcome</h1>
-        <p>This site will contain some How-To's and Wherefores of the AEON digital currency.</p>
+        
+	<h1>AEOn</h1>
+        <p>AEOn is a community driven digital currency. Welcome!</p>
 
         <input type="checkbox" name="accordion" id="official_resources" checked>
         <label for="official_resources"><h2>Official Resources</h2></label>
@@ -28,18 +29,11 @@
           {{ official_resources | markdownify }}
         </div>
 
-        <input type="checkbox" name="accordion" id="using" checked>
-        <label for="using"><h2>Using</h2></label>
+        <input type="checkbox" name="accordion" id="support" checked>
+        <label for="support"><h2>Support</h2></label>
         <div class="panel">
-          {% capture using %}{% include using.md %}{% endcapture %}
-          {{ using | markdownify }}
-        </div>
-
-        <input type="checkbox" name="accordion" id="mining" checked>
-        <label for="mining"><h2>Mining</h2></label>
-        <div class="panel">
-          {% capture mining %}{% include mining.md %}{% endcapture %}
-          {{ mining | markdownify }}
+          {% capture support %}{% include support.md %}{% endcapture %}
+          {{ support | markdownify }}
         </div>
 
         <input type="checkbox" name="accordion" id="contributing" checked>
