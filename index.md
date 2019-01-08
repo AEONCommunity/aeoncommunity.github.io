@@ -21,11 +21,11 @@
         <h1>Welcome</h1>
         <p>This site will contain some How-To's and Wherefores of the AEON digital currency.</p>
 
-        <input type="checkbox" name="accordion" id="get-started" checked>
-        <label for="get-started"><h2>Get Started</h2></label>
+        <input type="checkbox" name="accordion" id="official_resources" checked>
+        <label for="official_resources"><h2>Official Resources</h2></label>
         <div class="panel">
-          {% capture get-started %}{% include get-started.md %}{% endcapture %}
-          {{ get-started | markdownify }}
+          {% capture official_resources %}{% include official_resources.md %}{% endcapture %}
+          {{ official_resources | markdownify }}
         </div>
 
         <input type="checkbox" name="accordion" id="using" checked>
@@ -42,13 +42,6 @@
           {{ mining | markdownify }}
         </div>
 
-        <input type="checkbox" name="accordion" id="accepting" checked>
-        <label for="accepting"><h2>Accepting</h2></label>
-        <div class="panel">
-          {% capture accepting %}{% include accepting.md %}{% endcapture %}
-          {{ accepting | markdownify }}
-        </div>
-
         <input type="checkbox" name="accordion" id="contributing" checked>
         <label for="contributing"><h2>Contributing</h2></label>
         <div class="panel">
@@ -63,19 +56,6 @@
           {{ developer-guides | markdownify }}
         </div>
 
-        <input type="checkbox" name="accordion" id="recent-news" checked>
-        <label for="recent-news"><h2>Recent News</h2></label>
-        <div class="panel">
-          {% capture recent-news %}{% include recent-news.md %}{% endcapture %}
-          {{ recent-news | markdownify }}
-        </div>
-
-        <input type="checkbox" name="accordion" id="community" checked>
-        <label for="community"><h2>Community</h2></label>
-        <div class="panel">
-          {% capture community %}{% include community.md %}{% endcapture %}
-          {{ community | markdownify }}
-        </div>
       </div>
     </div>
   </div>
