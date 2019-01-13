@@ -46,11 +46,8 @@ permalink: ./How-Tos/Contribute/contribute.html
 <p>If you are not a coder, but have an idea for a useful app, you can suggest it to the community and even submit a proposal for funding over at the <a href="https://aeonfunding.com">AEON Funding System</a>.</p>
 
 <h2>Develop And/Or Test the Core AEON Source Code</h2>
-<p>The AEON core blockchain and wallet apps are primarily written in C++.  If that is your language, feel free to peruse the source code, and offer to make any changes or fixes you think would be valuable. Pull requests are merged based on community consensus and core developer review.
-
-[Contributing to Aeon](https://github.com/aeonix/aeon/blob/master/CONTRIBUTING.md)
-
-</p>
+<p>The AEON core blockchain and wallet apps are primarily written in C++.  If that is your language, feel free to peruse the source code, and offer to make any changes or fixes you think would be valuable. Pull requests are merged based on community consensus and core developer review.</p>
+<p>See this <a href="https://github.com/aeonix/aeon/blob/master/CONTRIBUTING.md">Contributing to Aeon</a> document for more information on contributing to the code.</p>
 
 <h2>Spread The Word In Your Circles</h2>
 <p>For AEON to someday become a digital currency used by the masses, the word needs to spread that AEON exists as a solid option for a private, secure, and reliable digital currency. If you are reading this, you probably already know more about crypto currencies and AEON than most of your friends and family. Look for opportunities to introduce them to the concepts of crypto currencies.  Offer to help them get their feet wet in the digital currency world, by introducing them to AEON.  This is a fantastic way to contribute to the AEON project.</p>
