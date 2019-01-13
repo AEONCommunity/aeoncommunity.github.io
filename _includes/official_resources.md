@@ -1,6 +1,6 @@
 Athough AEOn is community driven, official resources are considered to be those maintained by AEOn's initial developer, smooth.
 
-[Website](www.aeon.cash)
+[Website](https://www.aeon.cash)
 
 [GitHub](https://github.com/aeonix/aeon)
 
