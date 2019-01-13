@@ -1,2 +1,0 @@
-- [Hangouts](#) [text]
-- [Merchants & Services](#) [text]
