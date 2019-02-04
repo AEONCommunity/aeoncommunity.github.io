@@ -63,8 +63,8 @@ Aeon Timeline
 
 #### March
 
-  - [16] v0.9.2 Point release 2: Hydrogen Helix
-  - [15] v0.9.3 Point release 3: Hydrogen Helix
+  - [15] v0.9.2 Point release 2: Hydrogen Helix
+  - [16] v0.9.3 Point release 3: Hydrogen Helix
 
 #### April
 
