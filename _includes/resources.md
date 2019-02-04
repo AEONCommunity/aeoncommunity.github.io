@@ -18,4 +18,4 @@
 
 #### Historical Timeline
 
-* [Timeline](./information/timeline.md)
+* [Timeline](./information/timeline.html)
