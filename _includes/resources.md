@@ -1,4 +1,11 @@
-#### Community Hubs
+### General Information
+
+* [AEON vs. Other CryptoCurrencies](./information/differentiation.html)
+* [AEON Technical Implementation](./information/implementation.html)
+* [Historical Timeline](./information/timeline.html)
+
+
+### Community Hubs
 
 * [GitHub](https://github.com/aeonix)
 * [Email Subscription](https://docs.google.com/forms/d/e/1FAIpQLSci2UitA67N0W_xgSPLlGj6acGnTOtTdDR_ODZwXTHXZsWnCQ/viewform)
@@ -15,7 +22,3 @@
 * [Medium](https://www.medium.com/@Aeon_Community/)
 * [Telegram](https://telegram.me/AEONgroup)
 
-
-#### Historical Timeline
-
-* [Timeline](./information/timeline.html)
