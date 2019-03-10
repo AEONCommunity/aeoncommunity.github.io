@@ -197,8 +197,18 @@ Several documentation and configuration improvements from the AEON community. Da
 #### Feburary
 
   - [1] First ever [Aeon Community Giveaway](https://twitter.com/AeonCommunity/status/1091515045073297409). Ledger NanoS was gifted to an Aeon community member!
+  
+  - [4] Community CLI and GUI beta testing guidelines added to [community repo](https://github.com/AEONCommunity/TesterCentral) 
+  
+  - [4] Aeon RPC documentation guides started [here](https://github.com/AEONCommunity/RPC-Usage/blob/master/RPC%20Commands.md)
 
-  - [28] Community Meeting
+  - [28] Community Meeting [Logs](https://github.com/AEONCommunity/CommunityMeetUps-logs/blob/master/2_28_2019%20Meeting%20Logs.md)
+  
+#### March
+
+  - [1] Followup Community Meeting [Logs](https://github.com/AEONCommunity/CommunityMeetUps-logs/blob/master/3_1_2019%20Meeting%20Logs.md)
+  
+  - [9] Aeon WooCommerce Gateway integration added to [community repo](https://github.com/AEONCommunity/aeon-woocommerce-gateway)
   
 
 
