@@ -57,6 +57,20 @@
           {{ developer-guides | markdownify }}
         </div>
 
+        <input type="checkbox" name="accordion" id="meeting-logs" checked>
+        <label for="meeting-logs"><h2>Community Meeting Logs</h2></label>
+        <div class="panel">
+          {% capture meeting-logs %}{% include meeting-logs.md %}{% endcapture %}
+          {{ meeting-logs | markdownify }}
+        </div>
+
+        <input type="checkbox" name="accordion" id="translations" checked>
+        <label for="translations"><h2>Translations</h2></label>
+        <div class="panel">
+          {% capture translations %}{% include translations.md %}{% endcapture %}
+          {{ translations | markdownify }}
+        </div>
+
       </div>
     </div>
   </div>
