@@ -19,8 +19,8 @@
     <div class="row center-xs">
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
         
-	<h1>AEOn</h1>
-        <p>AEOn is a community driven digital currency. Welcome!</p>
+	<h1>AEON</h1>
+        <p>AEON is a community driven digital currency. Welcome!</p>
 
         <input type="checkbox" name="accordion" id="official_resources" checked>
         <label for="official_resources"><h2>Official Resources</h2></label>
