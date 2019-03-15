@@ -19,8 +19,8 @@
     <div class="row center-xs">
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
         
-	<h1>AEOn</h1>
-        <p>AEOn is a community driven digital currency. Welcome!</p>
+	<h1>AEON</h1>
+        <p>AEON is a community driven digital currency. Welcome!</p>
 
         <input type="checkbox" name="accordion" id="official_resources" checked>
         <label for="official_resources"><h2>Official Resources</h2></label>
@@ -55,6 +55,20 @@
         <div class="panel">
           {% capture developer-guides %}{% include developer-guides.md %}{% endcapture %}
           {{ developer-guides | markdownify }}
+        </div>
+
+        <input type="checkbox" name="accordion" id="meeting-logs" checked>
+        <label for="meeting-logs"><h2>Community Meeting Logs</h2></label>
+        <div class="panel">
+          {% capture meeting-logs %}{% include meeting-logs.md %}{% endcapture %}
+          {{ meeting-logs | markdownify }}
+        </div>
+
+        <input type="checkbox" name="accordion" id="translations" checked>
+        <label for="translations"><h2>Translations</h2></label>
+        <div class="panel">
+          {% capture translations %}{% include translations.md %}{% endcapture %}
+          {{ translations | markdownify }}
         </div>
 
       </div>
