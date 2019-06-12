@@ -208,7 +208,38 @@ Several documentation and configuration improvements from the AEON community. Da
 
   - [1] Followup Community Meeting [Logs](https://github.com/AEONCommunity/CommunityMeetUps-logs/blob/master/3_1_2019%20Meeting%20Logs.md)
   
+  - [1] K12 Proof of Work [proposal](https://old.reddit.com/r/Aeon/comments/aw2xhn/proposal_to_switch_to_sha3_proof_of_work/) submitted to community by Stoffu
+  
   - [9] Aeon WooCommerce Gateway integration added to [community repo](https://github.com/AEONCommunity/aeon-woocommerce-gateway)
+  
+  - [9] v0.12.9.0 Point release: Several dozen upstream reliability, security, and performance improvements (cli), Fixes for upstream vulnerabilities not believed exploitable in AEON but patched for defensive and maintenance purposes (cli), Various build and packaging improvements from the AEON community.
+  
+  - [13] Aeon Onion Block Expolorer repository added to [community repository](https://github.com/AEONCommunity/onion-aeon-blockchain-explorer) and 3 new block explorers put into operation. 
+  
+  - [19] Spanish Translations added to community translation repository for Aeon Main website along with core cli/gui readme's. 
+  
+  - [28] Polish Translations added to community translation repository for Aeon Main website along with core cli/gui readme's.
+  
+  - [28] Aeon Shell-Map added to [community repository](https://github.com/AEONCommunity/aeon-shell-map) giving users the ability to view global nodes on a graphical scale.
+  
+#### April
+
+  - [3] Aeon added to [DeltaDirect App](https://delta.app/en/crypto/aeon/aeon)
+
+  - [10] Esperanto Translation added to community translation repository for Aeon main website.
+  
+  - [11] German Translations added to community translation repository for Aeon Main website along with core cli/gui readme's.
+
+#### May
+
+  - [21] StelthEX adds Aeon to their [exchange platform](https://stealthex.io).
+  
+  - [31] Aeon community brings [Thunderosa onboard](https://old.reddit.com/r/Aeon/comments/bv8mo1/aeon_marketing_update/) as a seasoned marketing member of the Monero community.
+
+#### June
+
+  - [6] Aeon's 5th Birthday! 
+  
   
 
 
