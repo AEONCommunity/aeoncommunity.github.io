@@ -1,4 +1,4 @@
-Athough AEOn is community driven, official resources are considered to be those maintained by AEOn's initial developer, smooth.
+Athough AEON is community driven, official resources are considered to be those maintained by Aeon's initial developer, Smooth.
 
 [Website](https://www.aeon.cash)
 
