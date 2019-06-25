@@ -240,21 +240,4 @@ Several documentation and configuration improvements from the AEON community. Da
 
   - [6] Aeon's 5th Birthday! 
   
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - [21] Russian translations added for Aeon.cash and core coding documentation
