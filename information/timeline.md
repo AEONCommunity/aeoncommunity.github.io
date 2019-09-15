@@ -240,4 +240,36 @@ Several documentation and configuration improvements from the AEON community. Da
 
   - [6] Aeon's 5th Birthday! 
   
-  - [21] Russian translations added for Aeon.cash and core coding documentation
+  - [21] Russian translations added for Aeon.cash and core coding documentation.
+  
+  - [27] Aeon added to [slips list](https://github.com/satoshilabs/slips/pull/672) for future hardware support of devices like ledger or trezor. 
+
+#### July
+
+  - [5] Initial new marketing [documents](https://old.reddit.com/r/Aeon/comments/c9bk1b/aeon_marketing_initial_document/) released by Thunderosa. 
+
+  - [13] Aeon notes as [coin of the day](https://old.reddit.com/r/Aeon/comments/cckyox/aeon_currently_coin_of_the_day/) on Lunar Crush. 
+  
+  - [19] Aeon added to the [Matrix Chat](https://matrix.to/#/#aeon:matrix.org) platform. 
+
+  - [29] Aeon's website was re-designed to allow multi-language support and refresh its appearance for a more modern look.
+
+#### August
+
+  - [14] New [block explorer](https://github.com/aeonix/aeonix.github.io/pull/70) added to our website.
+
+  - [15] Cleanup of website format and minor styling changes.
+  
+  - [15] [AeonLW](https://github.com/BigslimVdub/AeonLW) released to public, an Electron wallet for Aeon.
+  
+  - [26] [Russian and Chinese](https://github.com/aeonix/aeonix.github.io/pull/82) translations added to our website. 
+  
+  - [27] SwapSpace integrates Aeon to their servicing platform.
+  
+  - [30] Preliminary binaries released for v0.13.0 fork by Stoffu.
+  
+#### September
+
+  - [1] HitBTC re-opens support for Aeon deposits and withdrawals.
+
+  - [2] [French](https://github.com/aeonix/aeonix.github.io/pull/84) translations added to our website. 
