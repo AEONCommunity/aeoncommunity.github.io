@@ -1,0 +1,27 @@
+### Aeon Blockchain Implementation
+
+# Technical Specifications
+
+* Maximum coin supply: ~18.4 million
+
+* Block Target Time: 240 seconds (4 minutes)
+
+* 1 MB scratchpad
+
+* Difficulty: Retargets every block
+
+* Block Reward: Smoothly varying using the formula (M−A) / (218) / (1012) where M = 264 −1 and A = supply mined to date
+
+* P2P-bind-port: 11180
+
+* RPC-bind-port: 11181
+
+* Proof of Work (POW): Kangaroo Twelve (K12)
+
+* Locked Ring size of 3 for ultimate lightweight blocks while still maintaining the security and untracibility of the cryptonote protocol. 
+
+
+
+# Kangaroo Twelve
+
+Kangaroo Twelve (K12) is a fast-hashing Secure Hashing Algorithm 3 (SHA-3) Keccak variant designed for optimization on ARM platforms. SHA-3 is the fallback when todays security standards of SHA-256 fails. For more technical information regarding K12, please check out the official Keccak team webpage for K12 [here]( https://keccak.team/kangarootwelve.html)
