@@ -20,7 +20,7 @@
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
         
 	<h1>AEON</h1>
-        <p>AEON is a community driven digital currency. Welcome!</p>
+        <p>AEON: Private Digital Cash. Welcome to our home!</p>
 
         <input type="checkbox" name="accordion" id="official_resources" checked>
         <label for="official_resources"><h2>Official Resources</h2></label>
