@@ -20,6 +20,8 @@ permalink: ./How-Tos/Contribute/contribute.html
 
 *   the <a href="https://www.reddit.com/r/Aeon/">AEON sub-reddit</a> is a place for the community to post and comment about AEON. It also has a great set of useful AEON-related links in the sidebar.
 *   the <a href="https://discordapp.com/invite/TM8mEsx">AEON Discord community</a> is a great place to hang out, which has severl topic lobbies. Topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the aeon sub-reddit and the IRC channel.
+*   the <a href="https://riot.im/app/#/room/#aeon:matrix.org">AEON Matrix Chat</a> is a place for the community to hang out and discuss things about AEON or crypto in general. It is also linked to the IRC channel for those who do not use IRC.
+*   the <a href="https://github.com/AEONCommunity">AEON COmmunity Github</a> is a place for community members to share their own contributions to the Aeon community whether it is a website, an application, guides for Aeon, or anything that can help the community.
 
 <h2>Keep Up With the AEON Funding System</h2>
 <p>Using <a href="https://aeonfunding.com/">AEON's funding system</a>, anyone can propose projects that would need some time and effort to complete. Note that a project can be something other than coding a new application. A minimum amount of required funding can be stated. The community can donate to the fund, and when the amount is reached, the project is considered "fully funded." Whoever completes the work will receive the funds. This is a great place to suggest project ideas, or for community members to find projects to work on.</p>
@@ -28,7 +30,7 @@ permalink: ./How-Tos/Contribute/contribute.html
 <p>Instead of running your wallet using a remote node, you can run your own node (aeond) on your own computer.  Once you have aeond set up, then you can let it run with port 11180 open. This will not only give you maximum privacy with your transactions, it will also allow your node to participate in distributing the blockchain to new users. If you do not have the storage or bandwidth to run a local node, you can use a virtual machine on the internet to run a full node. For information on how to set up a public node <b>for free</b> on the AWS Cloud, <a href="https://medium.com/@AEON_Community/setting-up-an-amazon-aws-aeon-public-node-on-a-free-ec2-instance-b6952a598cdc">read this How-To</a>.</p>
 
 <h2>Mine For AEON</h2>
-<p>The more miners on the network, the more decentralized and secure the network remains. You can easily start mining with the <b>start_mining</b> command in the aeond application or the aeon-wallet-cli application. (<b>NOTE:</b> This method of mining will not likely succeed in acquiring any AEON coins, but will still contribute to network decentralization. To successfully mine AEON coins, you will most likely use a separate mining application with an online mining pool.)</p>
+<p>The more miners on the network, the more decentralized and secure the network remains. You can easily start mining with the <b>start_mining</b> command in the aeond application. (<b>NOTE:</b> This method of mining will not likely succeed in acquiring any AEON coins, but will still contribute to network decentralization. To successfully mine AEON coins, you will most likely use a separate mining application with an online mining pool.)</p>
 
 <h2>Be an AEON Content Creator</h2>
 <p>It has been said that "content is king" on the internet, and there is validity in the statement. For people who are new to crypto currencies and AEON, there is a need for information which is readily available and easy to understand.</p> 
@@ -40,10 +42,16 @@ permalink: ./How-Tos/Contribute/contribute.html
 <p>Examples of projects that have been done by the community are:</p>
 
 *   The <a href="https://aeonfunding.com">AEON Funding System</a>
-*   The <a href="https://aeonapi.com/">AEON API site</a> (allows you to pay to a Bitcoin address with AEON)
+*   The <a href="https://github.com/AEONCommunity/onion-aeon-blockchain-explorer">Onion Block Explorer</a>
 *   The <a href="https://betaeon.win">AEON Gambling site</a> (allows you to bet AEON on the next block hash numbers)
+*   An <a href="https://github.com/AEONCommunity/aeon-woocommerce-gateway">AEON WooCommerce plugin</a> (for those on shopify)
+*   An <a href="https://data.aeon.wiki/charts/block_count_24h/">AEON Wiki and Chart site</a>
+*   An <a href="https://aeon.to">AEON to BTC exchance processor</a> (offline as of 6/20/2020)
+*   An <a href="https://github.com/BigslimVdub/AeonLW">AEON Electron wallet for OSX, Lunux, and Windows</a>
+*   An <a href="https://github.com/ivoryguru/aeondroid">AEON Android Wallet</a>
+*   An <a href="https://github.com/ivoryguru/aeondroid-p2p">AEON Android Daemon Application</a>
   
-<p>If you are not a coder, but have an idea for a useful app, you can suggest it to the community and even submit a proposal for funding over at the <a href="https://aeonfunding.com">AEON Funding System</a>.</p>
+<p>If you are not a coder, but have an idea for a useful app, you can suggest it to the community and even submit a proposal for funding over at the <a href="https://aeonfunding.com">AEON Funding System</a>. Afterwards please check and inform the community on Reddit and Discord to get the word out.</p>
 
 <h2>Develop And/Or Test the Core AEON Source Code</h2>
 <p>The AEON core blockchain and wallet apps are primarily written in C++.  If that is your language, feel free to peruse the source code, and offer to make any changes or fixes you think would be valuable. Pull requests are merged based on community consensus and core developer review.</p>
