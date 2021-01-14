@@ -28,6 +28,13 @@
           {% capture official_resources %}{% include official_resources.md %}{% endcapture %}
           {{ official_resources | markdownify }}
         </div>
+	
+	<input type="checkbox" name="accordion" id="current_releases" checked>
+        <label for="current_releases"><h2>Current Releases</h2></label>
+        <div class="panel">
+          {% capture current_releases %}{% include current_releases.md %}{% endcapture %}
+          {{ current_releases | markdownify }}
+        </div>
 
         <input type="checkbox" name="accordion" id="resources" checked>
         <label for="resources"><h2>Resources</h2></label>
