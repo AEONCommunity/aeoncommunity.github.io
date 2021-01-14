@@ -21,7 +21,7 @@ permalink: ./How-Tos/Contribute/contribute.html
 *   the <a href="https://www.reddit.com/r/Aeon/">AEON sub-reddit</a> is a place for the community to post and comment about AEON. It also has a great set of useful AEON-related links in the sidebar.
 *   the <a href="https://discordapp.com/invite/TM8mEsx">AEON Discord community</a> is a great place to hang out, which has severl topic lobbies. Topics range from <b>mining</b> to <b>crypto-news</b> to <b>publications</b> and <b>marketing</b>. There are also lobbies which act as a bridge to the aeon sub-reddit and the IRC channel.
 *   the <a href="https://riot.im/app/#/room/#aeon:matrix.org">AEON Matrix Chat</a> is a place for the community to hang out and discuss things about AEON or crypto in general. It is also linked to the IRC channel for those who do not use IRC.
-*   the <a href="https://github.com/AEONCommunity">AEON COmmunity Github</a> is a place for community members to share their own contributions to the Aeon community whether it is a website, an application, guides for Aeon, or anything that can help the community.
+*   the <a href="https://github.com/AEONCommunity">AEON Community Github</a> is a place for community members to share their own contributions to the Aeon community whether it is a website, an application, guides for Aeon, or anything that can help the community.
 
 <h2>Keep Up With the AEON Funding System</h2>
 <p>Using <a href="https://aeonfunding.com/">AEON's funding system</a>, anyone can propose projects that would need some time and effort to complete. Note that a project can be something other than coding a new application. A minimum amount of required funding can be stated. The community can donate to the fund, and when the amount is reached, the project is considered "fully funded." Whoever completes the work will receive the funds. This is a great place to suggest project ideas, or for community members to find projects to work on.</p>
@@ -60,4 +60,4 @@ permalink: ./How-Tos/Contribute/contribute.html
 <h2>Spread The Word In Your Circles</h2>
 <p>For AEON to someday become a digital currency used by the masses, the word needs to spread that AEON exists as a solid option for a private, secure, and reliable digital currency. If you are reading this, you probably already know more about crypto currencies and AEON than most of your friends and family. Look for opportunities to introduce them to the concepts of crypto currencies.  Offer to help them get their feet wet in the digital currency world, by introducing them to AEON.  This is a fantastic way to contribute to the AEON project.</p>
 
-<p>Return to the main page <a href="https://github.com/aeonix/aeon/blob/master/CONTRIBUTING.md">by clicking this cool link :)/a>.</p>
+<p>Return to the main page <a href="https://github.com/aeonix/aeon/blob/master/CONTRIBUTING.md">by clicking this cool link :)</a>.</p>
