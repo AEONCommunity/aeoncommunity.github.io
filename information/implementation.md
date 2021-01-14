@@ -27,7 +27,7 @@ permalink: ./information/implementation.html
 * Proof of Work (POW): Kangaroo Twelve (K12)
 
 * Locked Ring size of 3 for ultimate lightweight blocks while still maintaining the security and untracibility of the cryptonote protocol 
-</p>
+
 
 <h2><b>Aeon Background</b></h2>
 <p>The implementation of AEON is derived from two other open source projects:  <b>CryptoNote</b> and <b>Monero</b>.</p>
