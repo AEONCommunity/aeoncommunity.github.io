@@ -60,4 +60,4 @@ permalink: ./How-Tos/Contribute/contribute.html
 <h2>Spread The Word In Your Circles</h2>
 <p>For AEON to someday become a digital currency used by the masses, the word needs to spread that AEON exists as a solid option for a private, secure, and reliable digital currency. If you are reading this, you probably already know more about crypto currencies and AEON than most of your friends and family. Look for opportunities to introduce them to the concepts of crypto currencies.  Offer to help them get their feet wet in the digital currency world, by introducing them to AEON.  This is a fantastic way to contribute to the AEON project.</p>
 
-<p>Return to the main page <a href="https://github.com/aeonix/aeon/blob/master/CONTRIBUTING.md">by clicking this cool link :)</a>.</p>
+<p>Return to the main page <a href="https://aeoncommunity.github.io">by clicking this cool link :)</a>.</p>
