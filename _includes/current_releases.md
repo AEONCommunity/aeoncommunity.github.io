@@ -19,7 +19,7 @@
 
 [Mac OS](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-mac-x64-v0.14.1.0.tar.bz2)
 
-[Linux](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-win-x64-v0.14.1.0.zip)
+[Linux](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-linux-x64-v0.14.1.0.tar.bz2)
 
 [DIY Source Code .zip](https://github.com/aeonix/aeon-gui/archive/v0.14.1.0-aeon.zip)
 
