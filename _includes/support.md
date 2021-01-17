@@ -14,14 +14,31 @@
 
 *   [Setup AEON Command Line Wallet on Ubuntu](./How-Tos/SetupAEONcliUbuntu/SetupAEON_Ubuntu.html)
 
+### Using Aeon Android Wallet
+
+*   [Sending Aeon with Aeondroid](https://www.reddit.com/r/Aeon/comments/ksi9lc/sending_aeon_coins_has_never_been_easier_with_the/)
+*   [Youtube - How to build Aeon binaries for Android](https://youtu.be/ELyTtq54XfQ)
+*   [Using Aeon Android p2p Daemon to sync blockchain](https://imgur.com/Ioz7u4c)
+
+### Remote Nodes for Aeon
+
+*   [Updated Aeon Remote Nodes](https://nodes.aeon.run/)
+
 ### Mining
 
+   *Mining Pool Selection*
+   
+*   [Miningpoolstats.stream](https://miningpoolstats.stream/aeon)  
+
+   *CPU mining* 
+   
 *   [Mine with CPU on Ubuntu Using XMRig](./How-Tos/CPUmineOnUbuntu/MineCPUonUbuntu.html)
 
-    *At YouTube*
+   *At YouTube*
 
-*   [CPUMining 101: Using XMR Stak on Windows 10](https://www.youtube.com/watch?v=s7UOxtvq9hc)
+*   [CPU, GPU AMD, GPU Nvidia](https://herominers.medium.com/how-to-mine-aeon-complete-beginners-guide-8b938490f7ef)
 *   [GPU Mining on a Pool with AMD GPU's](https://www.youtube.com/watch?v=B3IwYbd_maU)
+*   [Herominers Aeon Mining guide](https://aeon.herominers.com/#how-to-mine-aeon)
 
 ### Creating a public node
 
