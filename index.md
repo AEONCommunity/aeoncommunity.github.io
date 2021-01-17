@@ -42,6 +42,13 @@
           {% capture resources %}{% include resources.md %}{% endcapture %}
           {{ resources | markdownify }}
         </div>
+	
+	<input type="checkbox" name="accordion" id="mining" checked>
+        <label for="mining"><h2>Mining</h2></label>
+        <div class="panel">
+          {% capture mining %}{% include mining.md %}{% endcapture %}
+          {{ mining | markdownify }}
+        </div>
 
         <input type="checkbox" name="accordion" id="support" checked>
         <label for="support"><h2>Support</h2></label>
