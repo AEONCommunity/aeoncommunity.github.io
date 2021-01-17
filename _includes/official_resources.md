@@ -1,4 +1,4 @@
-Athough AEON is community driven, official resources are considered to be those maintained by Aeon's initial developer, Smooth.
+Athough AEON is community driven, official resources are considered to be those maintained by Aeon's initial developer, Smooth. Additional support is provided by Stoffu as well as many community contributors. Remember that anyone can contribute to the Aeon project.
 
 [Website](https://www.aeon.cash)
 
