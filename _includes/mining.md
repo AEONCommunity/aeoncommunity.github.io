@@ -7,6 +7,7 @@
 ### CPU Mining (not recommended)
    
 *   [Mine with CPU on Ubuntu Using XMRig](./How-Tos/CPUmineOnUbuntu/MineCPUonUbuntu.html)
+*   [NoobX aeon k12 miner](https://github.com/Noob-X/Aeon-K12-cpuminer)
 *   [OhGodAPet's cpu multiminer with built in solomining rpc](https://github.com/OhGodAPet/Aeon-K12-cpuminer)
 
 ### GPU Mining
