@@ -17,6 +17,8 @@ Aeon is developed from a community-driven approach, so there are no official res
 * [Twitter Aeon Community](https://twitter.com/AeonCommunity)
 * [Reddit](https://www.reddit.com/r/aeon)
 * [Aeon Wiki](https://aeon.wiki)
+* [Aeon Docs](https://docs.aeon.wiki)
+* [Aeon Data](https://data.aeon.wiki)
 * [Discord](https://discord.gg/xWZ2z78)
 * [Funding System](https://www.aeonfunding.com)
 * [Aeon Community GitHub repo](https://github.com/AEONCommunity)
