@@ -57,6 +57,35 @@ permalink: ./How-Tos/Contribute/contribute.html
 <p>The AEON core blockchain and wallet apps are primarily written in C++.  If that is your language, feel free to peruse the source code, and offer to make any changes or fixes you think would be valuable. Pull requests are merged based on community consensus and core developer review.</p>
 <p>See this <a href="https://github.com/aeonix/aeon/blob/master/CONTRIBUTING.md">Contributing to Aeon</a> document for more information on contributing to the code.</p>
 
+## Translations
+We are looking for people who can provide translations of AEON information into additional languages! You can earn AEON by doing so.
+
+For details check out the [readme file](https://github.com/AEONCommunity/Translations/blob/master/README.md) on the community github repo.
+
+### Spanish Translations:
+
+* Core CLI and GUI application readme's and contributing documents [HERE](https://github.com/AEONCommunity/Translations/tree/master/Core%20Translations/Spanish)
+* Aeon.cash main website translation for HTML [HERE](https://github.com/AEONCommunity/Translations/tree/master/Aeon.Cash%20Translations/Spanish)
+
+### Polish Translations:
+
+* Aeon.cash main website translation for HTML [HERE](https://github.com/AEONCommunity/Translations/tree/master/Aeon.Cash%20Translations/Polish)
+* Core CLI and GUI application readme's and contributing documents [HERE](https://github.com/AEONCommunity/Translations/tree/master/Core%20Translations/Polish)
+
+### German Translations:
+
+* Aeon.cash main website translation for HTML [HERE](https://github.com/AEONCommunity/Translations/tree/master/Aeon.Cash%20Translations/German)
+* Core CLI and GUI application readme's and contributing documents [HERE](https://github.com/AEONCommunity/Translations/tree/master/Core%20Translations/German)
+
+### Esperanto Translations:
+
+* Aeon.cash main website translation for HTML [HERE](https://github.com/AEONCommunity/Translations/tree/master/Aeon.Cash%20Translations/Esperanto)
+
+### Russian Translations:
+
+* Aeon.cash main website translation for HTML [HERE](https://github.com/AEONCommunity/Translations/tree/master/Aeon.Cash%20Translations/Russian)
+* Core CLI and GUI application readme's and contributing documents [HERE](https://github.com/AEONCommunity/Translations/tree/master/Core%20Translations/Russian)
+
 <h2>Spread The Word In Your Circles</h2>
 <p>For AEON to someday become a digital currency used by the masses, the word needs to spread that AEON exists as a solid option for a private, secure, and reliable digital currency. If you are reading this, you probably already know more about crypto currencies and AEON than most of your friends and family. Look for opportunities to introduce them to the concepts of crypto currencies.  Offer to help them get their feet wet in the digital currency world, by introducing them to AEON.  This is a fantastic way to contribute to the AEON project.</p>
 
