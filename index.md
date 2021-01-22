@@ -20,7 +20,7 @@
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
         
 	<h1>AEON</h1>
-        <p>AEON: Private Digital Cash. Welcome to our home!</p>
+        <p>Private Digital Cash. Welcome to our home!</p>
 
         <input type="checkbox" name="accordion" id="resources" checked>
         <label for="resources"><h2>Resources</h2></label>
