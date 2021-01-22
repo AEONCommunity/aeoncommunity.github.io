@@ -1,1 +1,0 @@
-A general guide for how to contribute to the Aeon project or community, and what has been contributed by fellow community members or developers can be found [here](./How-Tos/Contribute/contribute.html).
