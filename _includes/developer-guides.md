@@ -1,4 +1,5 @@
-Monero and Aeon share documentation for RPC methods.
+Monero and Aeon share documentation for RPC methods so much of the information available for Monero applies to Aeon also. There are also guides for Aeonix software available here:
 
-- [Daemon RPC Documentation](https://ww.getmonero.org/resources/developer-guides/daemon-rpc.html)
-- [Wallet RPC Documentation](https://www.getmonero.org/resources/developer-guides/wallet-rpc.html)
+- [Aeon Daemon (aeond) Documentation](https://docs.aeon.wiki/documentation/aeond/options/)
+- [Aeon Wallet RPC (aeon-wallet-rpc) Documentation](https://docs.aeon.wiki/documentation/aeon-wallet-rpc/options/)
+- [Aeon Wallet CLI (aeon-wallet-cli) Documentation](https://docs.aeon.wiki/documentation/aeon-wallet-cli/options/)
