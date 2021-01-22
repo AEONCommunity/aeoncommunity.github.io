@@ -22,11 +22,11 @@
 	<h1>AEON</h1>
         <p>AEON: Private Digital Cash. Welcome to our home!</p>
 
-        <input type="checkbox" name="accordion" id="official_resources" checked>
-        <label for="official_resources"><h2>Official Resources</h2></label>
+        <input type="checkbox" name="accordion" id="resources" checked>
+        <label for="resources"><h2>Resources</h2></label>
         <div class="panel">
-          {% capture official_resources %}{% include official_resources.md %}{% endcapture %}
-          {{ official_resources | markdownify }}
+          {% capture resources %}{% include resources.md %}{% endcapture %}
+          {{ resources | markdownify }}
         </div>
 	
 	<input type="checkbox" name="accordion" id="current_releases" checked>
@@ -34,13 +34,6 @@
         <div class="panel">
           {% capture current_releases %}{% include current_releases.md %}{% endcapture %}
           {{ current_releases | markdownify }}
-        </div>
-
-        <input type="checkbox" name="accordion" id="resources" checked>
-        <label for="resources"><h2>Resources</h2></label>
-        <div class="panel">
-          {% capture resources %}{% include resources.md %}{% endcapture %}
-          {{ resources | markdownify }}
         </div>
 	
 	<input type="checkbox" name="accordion" id="mining" checked>
