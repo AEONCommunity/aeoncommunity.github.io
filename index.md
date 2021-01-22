@@ -51,11 +51,7 @@
         </div>
 
         <input type="checkbox" name="accordion" id="contributing" checked>
-        <label for="contributing"><h2>Contributing</h2></label>
-        <div class="panel">
-          {% capture contributing %}{% include contributing.md %}{% endcapture %}
-          {{ contributing | markdownify }}
-        </div>
+        <label for="contributing"><h2><a href="/How-Tos/Contribute/contribute.html">Contributing</a></h2></label>
 
         <input type="checkbox" name="accordion" id="developer-guides" checked>
         <label for="developer-guides"><h2>Developer Guides</h2></label>
