@@ -1,9 +1,30 @@
-Athough AEON is community driven, official resources are considered to be those maintained by Aeon's initial developer, Smooth. Additional support is provided by Stoffu as well as many community contributors. Remember that anyone can contribute to the Aeon project.
+Aeon is developed from a community-driven approach, so there are no official resources or official organizations that are leading it. Smooth, a developer for AEON since 2014, has maintained regular updates to the source code on [GitHub](https://github.com/aeonix/aeon). Additional support is provided by community developer Stoffu as well as many community contributors. Everyone is invited to contribute to the AEON project whether that be developing new applications or integrating AEON as a payment method. 
 
-[Website](https://www.aeon.cash)
+* [Website](https://www.aeon.cash)
+* [Website](https://www.aeon-crypto.org)
+* [Aeonix GitHub](https://github.com/aeonix)
+* [Email Subscription](https://docs.google.com/forms/d/e/1FAIpQLSci2UitA67N0W_xgSPLlGj6acGnTOtTdDR_ODZwXTHXZsWnCQ/viewform)
+* [Block Explorer 1](http://162.210.173.150/)
+* [Block Explorer 2](https://www.aeonblockexplorer.com)
+* [Block Explorer 3](https://www.aeonstats.com)
+* [Block Explorer 4](https://aeonblockchecker.ninja:8081)
+* [Block Explorer 5](https://aeonstats.info)
+* [BitcoinTalk](https://bitcointalk.org/index.php?topic=641696.0)
+* [Twitter](https://twitter.com/AeonCoin)
+* [Twitter Aeon Community](https://twitter.com/AeonCommunity)
+* [Matrix Chat](https://riot.im/app/#/room/#aeon:matrix.org)
+* [IRC Chat](https://webchat.freenode.net/?channels=%23aeon)
+* [Twitter Aeon Community](https://twitter.com/AeonCommunity)
+* [Reddit](https://www.reddit.com/r/aeon)
+* [Aeon Wiki](https://aeon.wiki)
+* [Discord](https://discord.gg/xWZ2z78)
+* [Funding System](https://www.aeonfunding.com)
+* [Aeon Community GitHub repo](https://github.com/AEONCommunity)
+* [Medium](https://www.medium.com/@Aeon_Community/)
+* [Telegram](https://telegram.me/AEONgroup)
+* [Delta Direct](https://delta.app/en/crypto/aeon/aeon)
+* [Lunar Crush](https://lunarcrush.com/coins/aeon/aeon/insights?interval=1%20Week)
+* [Coin 360](https://coin360.com/coin/aeon-aeon)
+* [Gambling/Betting](https://betaeon.win)
+* [BitcoinTalk](https://bitcointalk.org/index.php?topic=641696.0)
 
-[GitHub](https://github.com/aeonix/aeon)
-
-[BitcoinTalk](https://bitcointalk.org/index.php?topic=641696.0)
-
-The IRC server is located at #aeon on freenode.
