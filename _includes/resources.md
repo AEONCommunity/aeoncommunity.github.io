@@ -1,13 +1,8 @@
-### General Information
+Aeon is developed from a community-driven approach, so there are no official resources or official organizations that are leading it. Smooth, a developer for AEON since 2014, has maintained regular updates to the source code on [GitHub](https://github.com/aeonix/aeon). Additional support is provided by community developer Stoffu as well as many community contributors. Everyone is invited to contribute to the AEON project whether that be developing new applications or integrating AEON as a payment method. 
 
-* [AEON vs. Other CryptoCurrencies](./information/differentiation.html)
-* [AEON Technical Implementation](./information/implementation.html)
-* [Historical Timeline](./information/timeline.html)
-
-
-### Community Hubs
-
-* [GitHub](https://github.com/aeonix)
+* [Website](https://www.aeon.cash)
+* [Website](https://www.aeon-crypto.org)
+* [Aeonix GitHub](https://github.com/aeonix)
 * [Email Subscription](https://docs.google.com/forms/d/e/1FAIpQLSci2UitA67N0W_xgSPLlGj6acGnTOtTdDR_ODZwXTHXZsWnCQ/viewform)
 * [Block Explorer 1](http://162.210.173.150/)
 * [Block Explorer 2](https://www.aeonblockexplorer.com)
@@ -18,10 +13,12 @@
 * [Twitter](https://twitter.com/AeonCoin)
 * [Twitter Aeon Community](https://twitter.com/AeonCommunity)
 * [Matrix Chat](https://riot.im/app/#/room/#aeon:matrix.org)
+* [IRC Chat](https://webchat.freenode.net/?channels=%23aeon)
 * [Twitter Aeon Community](https://twitter.com/AeonCommunity)
 * [Reddit](https://www.reddit.com/r/aeon)
-* [Aeon Wiki 1](https://coinwik.org/Aeon)
-* [Aeon Wiki 2](https://data.aeon.wiki)
+* [Aeon Wiki](https://aeon.wiki)
+* [Aeon Docs](https://docs.aeon.wiki)
+* [Aeon Data](https://data.aeon.wiki)
 * [Discord](https://discord.gg/xWZ2z78)
 * [Funding System](https://www.aeonfunding.com)
 * [Aeon Community GitHub repo](https://github.com/AEONCommunity)
@@ -31,3 +28,5 @@
 * [Lunar Crush](https://lunarcrush.com/coins/aeon/aeon/insights?interval=1%20Week)
 * [Coin 360](https://coin360.com/coin/aeon-aeon)
 * [Gambling/Betting](https://betaeon.win)
+* [BitcoinTalk](https://bitcointalk.org/index.php?topic=641696.0)
+

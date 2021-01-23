@@ -20,13 +20,13 @@
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
         
 	<h1>AEON</h1>
-        <p>AEON: Private Digital Cash. Welcome to our home!</p>
+        <p>Private Digital Cash. Welcome to our home!</p>
 
-        <input type="checkbox" name="accordion" id="official_resources" checked>
-        <label for="official_resources"><h2>Official Resources</h2></label>
+        <input type="checkbox" name="accordion" id="resources" checked>
+        <label for="resources"><h2>Resources</h2></label>
         <div class="panel">
-          {% capture official_resources %}{% include official_resources.md %}{% endcapture %}
-          {{ official_resources | markdownify }}
+          {% capture resources %}{% include resources.md %}{% endcapture %}
+          {{ resources | markdownify }}
         </div>
 	
 	<input type="checkbox" name="accordion" id="current_releases" checked>
@@ -34,13 +34,6 @@
         <div class="panel">
           {% capture current_releases %}{% include current_releases.md %}{% endcapture %}
           {{ current_releases | markdownify }}
-        </div>
-
-        <input type="checkbox" name="accordion" id="resources" checked>
-        <label for="resources"><h2>Resources</h2></label>
-        <div class="panel">
-          {% capture resources %}{% include resources.md %}{% endcapture %}
-          {{ resources | markdownify }}
         </div>
 	
 	<input type="checkbox" name="accordion" id="mining" checked>
@@ -58,17 +51,13 @@
         </div>
 
         <input type="checkbox" name="accordion" id="contributing" checked>
-        <label for="contributing"><h2>Contributing</h2></label>
-        <div class="panel">
-          {% capture contributing %}{% include contributing.md %}{% endcapture %}
-          {{ contributing | markdownify }}
-        </div>
+        <label for="contributing"><h2><a href="/How-Tos/Contribute/contribute.html" style="color:black;">Contributing</a></h2></label>
 
-        <input type="checkbox" name="accordion" id="developer-guides" checked>
-        <label for="developer-guides"><h2>Developer Guides</h2></label>
+        <input type="checkbox" name="accordion" id="documentation" checked>
+        <label for="documentation"><h2>Documentation</h2></label>
         <div class="panel">
-          {% capture developer-guides %}{% include developer-guides.md %}{% endcapture %}
-          {{ developer-guides | markdownify }}
+          {% capture documentation %}{% include documentation.md %}{% endcapture %}
+          {{ documentation | markdownify }}
         </div>
 
         <input type="checkbox" name="accordion" id="meeting-logs" checked>
@@ -76,13 +65,6 @@
         <div class="panel">
           {% capture meeting-logs %}{% include meeting-logs.md %}{% endcapture %}
           {{ meeting-logs | markdownify }}
-        </div>
-
-        <input type="checkbox" name="accordion" id="translations" checked>
-        <label for="translations"><h2>Translations</h2></label>
-        <div class="panel">
-          {% capture translations %}{% include translations.md %}{% endcapture %}
-          {{ translations | markdownify }}
         </div>
 
       </div>
