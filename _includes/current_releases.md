@@ -1,6 +1,6 @@
 ### These are the current releases for the Aeon project
 
-#### Aeon CLI (v0.14.1.0 "Chronos")
+#### <i class="fas fa-terminal fa-fw" style="margin-right:0.5em"></i>Aeon CLI (v0.14.1.0 "Chronos")
 
 * [Windows](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-win-x64-v0.14.1.0.zip)
 * [Mac OS](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-mac-x64-v0.14.1.0.tar.bz2)
@@ -9,7 +9,7 @@
 * [DIY Source Code tar.gz](https://github.com/aeonix/aeon/archive/v0.14.1.0-aeon.tar.gz)
 
 
-#### Aeon GUI (v0.14.1.0 "Chronos")
+#### <i class="fas fa-calculator fa-fw" style="margin-right:0.5em"></i>Aeon GUI (v0.14.1.0 "Chronos")
 
 * [Windows](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-win-x64-v0.14.1.0.zip)
 * [Mac OS](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-mac-x64-v0.14.1.0.tar.bz2)
@@ -31,7 +31,7 @@ SHA256(aeon-blockchain-1265000.raw)= 3be0b4bd6d118b8fdbef056aacde4303a07b8dc204a
 * [PGP Signature](https://www.aeon.cash/hashes.asc)
 * [PGP Signing Key](https://raw.githubusercontent.com/aeonix/aeon/master/utils/gpg_keys/stoffu.asc)
 
-### Raw blockchain file download
+#### Raw blockchain file download
 
 This is a raw blockchain file provided by Stoffu. This file can be imported instead of syncing the blockchain from 0 yourself. It is always recommended to sync the blockchain yourself however this is an option if you desire. [Blockchain.raw file](https://drive.google.com/u/0/uc?id=1yiF7xvApQeQ-VBrJ_IDPQpdleqywNtvg).
 
@@ -41,7 +41,7 @@ To import using AeonCLI run this command:
 Note to edit the /path/to/your/file/blockchain.raw with the physical path you put the downloaded .raw file in. 
 
 
-#### Aeon Electron Wallet (AeonLW v1.4.1 "Zeus")
+#### <i class="fas fa-bolt fa-fw" style="margin-right:0.5em"></i>Aeon Electron Wallet (AeonLW v1.4.1 "Zeus")
 
 * [Windows](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW.Setup.1.4.1.exe)
 * [Mac OS](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW-1.4.1.dmg)
@@ -50,7 +50,7 @@ Note to edit the /path/to/your/file/blockchain.raw with the physical path you pu
 * [DIY Source Code tar.gz](https://github.com/BigslimVdub/AeonLW/archive/v1.4.1.tar.gz)
 
 
-#### Aeon Android Wallet (aeondroid v0.14.1.0d)
+#### <i class="fab fa-android fa-fw" style="margin-right:0.5em"></i>Aeon Android Wallet (aeondroid v0.14.1.0d)
 
 * [Google Play Store](https://play.google.com/store/apps/details?id=org.aeondroid.app)
 * [ArmV8](https://github.com/ivoryguru/aeondroid/releases/download/0.14.1.0d/app-arm64-v8a-release.apk)
@@ -59,7 +59,7 @@ Note to edit the /path/to/your/file/blockchain.raw with the physical path you pu
 * [DIY Source Code .zip](https://github.com/ivoryguru/aeondroid/archive/0.14.1.0d.zip)
 * [DIY Source Code tar.gz](https://github.com/ivoryguru/aeondroid/archive/0.14.1.0d.tar.gz)
 
-#### Aeon Android p2p (aeondroid-p2p v0.14.1.0d)
+#### <i class="fab fa-android fa-fw" style="margin-right:0.5em"></i>Aeon Android p2p (aeondroid-p2p v0.14.1.0d)
 
 * [Google Play Store](https://play.google.com/store/apps/details?id=org.aeondroidp2p.app)
 * [Release APK](https://github.com/ivoryguru/aeondroid-p2p/releases/download/0.14.1.0d/app-release.apk)
