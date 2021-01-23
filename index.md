@@ -23,45 +23,45 @@
         <p>Private Digital Cash. Welcome to our home!</p>
 
         <input type="checkbox" name="accordion" id="resources" checked>
-        <label for="resources"><h2>Resources</h2></label>
+        <label for="resources"><h2><i class="fas fa-book-reader" style="margin-right:0.5em"></i>Resources</h2></label>
         <div class="panel">
           {% capture resources %}{% include resources.md %}{% endcapture %}
           {{ resources | markdownify }}
         </div>
 	
 	<input type="checkbox" name="accordion" id="current_releases" checked>
-        <label for="current_releases"><h2>Current Releases</h2></label>
+        <label for="current_releases"><h2><i class="fas fa-download" style="margin-right:0.5em"></i>Current Releases</h2></label>
         <div class="panel">
           {% capture current_releases %}{% include current_releases.md %}{% endcapture %}
           {{ current_releases | markdownify }}
         </div>
 	
 	<input type="checkbox" name="accordion" id="mining" checked>
-        <label for="mining"><h2>Mining</h2></label>
+        <label for="mining"><h2><i class="fas fa-microchip"></i>Mining</h2></label>
         <div class="panel">
           {% capture mining %}{% include mining.md %}{% endcapture %}
           {{ mining | markdownify }}
         </div>
 
         <input type="checkbox" name="accordion" id="support" checked>
-        <label for="support"><h2>Support</h2></label>
+        <label for="support"><h2><i class="far fa-question-circle"></i>Support</h2></label>
         <div class="panel">
           {% capture support %}{% include support.md %}{% endcapture %}
           {{ support | markdownify }}
         </div>
 
         <input type="checkbox" name="accordion" id="contributing" checked>
-        <label for="contributing"><h2><a href="/How-Tos/Contribute/contribute.html" style="color:black;">Contributing</a></h2></label>
+        <label for="contributing"><h2><i class="fas fa-handshake"></i><a href="/How-Tos/Contribute/contribute.html" style="color:black;">Contributing</a></h2></label>
 
         <input type="checkbox" name="accordion" id="documentation" checked>
-        <label for="documentation"><h2>Documentation</h2></label>
+        <label for="documentation"><h2><i class="far fa-file" style="margin-right:0.5em"></i>Documentation</h2></label>
         <div class="panel">
           {% capture documentation %}{% include documentation.md %}{% endcapture %}
           {{ documentation | markdownify }}
         </div>
 
         <input type="checkbox" name="accordion" id="meeting-logs" checked>
-        <label for="meeting-logs"><h2>Community Meeting Logs</h2></label>
+        <label for="meeting-logs"><h2><i class="fas fa-comments" style="margin-right:0.5em"></i>Community Meeting Logs</h2></label>
         <div class="panel">
           {% capture meeting-logs %}{% include meeting-logs.md %}{% endcapture %}
           {{ meeting-logs | markdownify }}
