@@ -2,18 +2,18 @@
 
 #### <i class="fas fa-terminal fa-fw" style="margin-right:0.5em"></i>Aeon CLI (v0.14.1.0 "Chronos")
 
-* [Windows](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-win-x64-v0.14.1.0.zip)
-* [Mac OS](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-mac-x64-v0.14.1.0.tar.bz2)
-* [Linux](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-linux-x64-v0.14.1.0.tar.bz2)
+* <i class="fab fa-windows fa-fw" style="margin-right:0.5em"></i>[Windows](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-win-x64-v0.14.1.0.zip)
+* <i class="fab fa-apple fa-fw" style="margin-right:0.5em"></i>[Mac OS](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-mac-x64-v0.14.1.0.tar.bz2)
+* <i class="fab fa-linux fa-fw" style="margin-right:0.5em"></i>[Linux](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-linux-x64-v0.14.1.0.tar.bz2)
 * [DIY Source Code .zip](https://github.com/aeonix/aeon/archive/v0.14.1.0-aeon.zip)
 * [DIY Source Code tar.gz](https://github.com/aeonix/aeon/archive/v0.14.1.0-aeon.tar.gz)
 
 
 #### <i class="fas fa-calculator fa-fw" style="margin-right:0.5em"></i>Aeon GUI (v0.14.1.0 "Chronos")
 
-* [Windows](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-win-x64-v0.14.1.0.zip)
-* [Mac OS](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-mac-x64-v0.14.1.0.tar.bz2)
-* [Linux](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-linux-x64-v0.14.1.0.tar.bz2)
+* <i class="fab fa-windows fa-fw" style="margin-right:0.5em"></i>[Windows](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-win-x64-v0.14.1.0.zip)
+* <i class="fab fa-apple fa-fw" style="margin-right:0.5em"></i>[Mac OS](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-mac-x64-v0.14.1.0.tar.bz2)
+* <i class="fab fa-linux fa-fw" style="margin-right:0.5em"></i>[Linux](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-linux-x64-v0.14.1.0.tar.bz2)
 * [DIY Source Code .zip](https://github.com/aeonix/aeon-gui/archive/v0.14.1.0-aeon.zip)
 * [DIY Source Code tar.gz](https://github.com/aeonix/aeon-gui/archive/v0.14.1.0-aeon.tar.gz)
 
@@ -43,9 +43,9 @@ Note to edit the /path/to/your/file/blockchain.raw with the physical path you pu
 
 #### <i class="fas fa-bolt fa-fw" style="margin-right:0.5em"></i>Aeon Electron Wallet (AeonLW v1.4.1 "Zeus")
 
-* [Windows](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW.Setup.1.4.1.exe)
-* [Mac OS](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW-1.4.1.dmg)
-* [Linux](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW_1.4.1_amd64.deb)
+* <i class="fab fa-windows fa-fw" style="margin-right:0.5em"></i>[Windows](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW.Setup.1.4.1.exe)
+* <i class="fab fa-apple fa-fw" style="margin-right:0.5em"></i>[Mac OS](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW-1.4.1.dmg)
+* <i class="fab fa-linux fa-fw" style="margin-right:0.5em"></i>[Linux](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW_1.4.1_amd64.deb)
 * [DIY Source Code .zip](https://github.com/BigslimVdub/AeonLW/archive/v1.4.1.zip)
 * [DIY Source Code tar.gz](https://github.com/BigslimVdub/AeonLW/archive/v1.4.1.tar.gz)
 
