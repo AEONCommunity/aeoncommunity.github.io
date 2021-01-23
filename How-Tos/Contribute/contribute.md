@@ -91,7 +91,7 @@ For details check out the [readme file](https://github.com/AEONCommunity/Transla
 * Aeon.cash main website translation for HTML [HERE](https://github.com/AEONCommunity/Translations/tree/master/Aeon.Cash%20Translations/German)
 * Core CLI and GUI application readme's and contributing documents [HERE](https://github.com/AEONCommunity/Translations/tree/master/Core%20Translations/German)
 
-### Esperanto Translations:z
+### Esperanto Translations:
 
 * Aeon.cash main website translation for HTML [HERE](https://github.com/AEONCommunity/Translations/tree/master/Aeon.Cash%20Translations/Esperanto)
 
