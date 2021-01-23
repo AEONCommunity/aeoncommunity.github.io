@@ -5,8 +5,8 @@
 * <i class="fab fa-windows fa-fw" style="margin-right:0.5em"></i>[Windows](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-win-x64-v0.14.1.0.zip)
 * <i class="fab fa-apple fa-fw" style="margin-right:0.5em"></i>[Mac OS](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-mac-x64-v0.14.1.0.tar.bz2)
 * <i class="fab fa-linux fa-fw" style="margin-right:0.5em"></i>[Linux](https://github.com/aeonix/aeon/releases/download/v0.14.1.0-aeon/aeon-linux-x64-v0.14.1.0.tar.bz2)
-* [DIY Source Code .zip](https://github.com/aeonix/aeon/archive/v0.14.1.0-aeon.zip)
-* [DIY Source Code tar.gz](https://github.com/aeonix/aeon/archive/v0.14.1.0-aeon.tar.gz)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code .zip](https://github.com/aeonix/aeon/archive/v0.14.1.0-aeon.zip)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code tar.gz](https://github.com/aeonix/aeon/archive/v0.14.1.0-aeon.tar.gz)
 
 
 #### <i class="fas fa-calculator fa-fw" style="margin-right:0.5em"></i>Aeon GUI (v0.14.1.0 "Chronos")
@@ -14,8 +14,8 @@
 * <i class="fab fa-windows fa-fw" style="margin-right:0.5em"></i>[Windows](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-win-x64-v0.14.1.0.zip)
 * <i class="fab fa-apple fa-fw" style="margin-right:0.5em"></i>[Mac OS](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-mac-x64-v0.14.1.0.tar.bz2)
 * <i class="fab fa-linux fa-fw" style="margin-right:0.5em"></i>[Linux](https://github.com/aeonix/aeon-gui/releases/download/v0.14.1.0-aeon/aeon-gui-linux-x64-v0.14.1.0.tar.bz2)
-* [DIY Source Code .zip](https://github.com/aeonix/aeon-gui/archive/v0.14.1.0-aeon.zip)
-* [DIY Source Code tar.gz](https://github.com/aeonix/aeon-gui/archive/v0.14.1.0-aeon.tar.gz)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code .zip](https://github.com/aeonix/aeon-gui/archive/v0.14.1.0-aeon.zip)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code tar.gz](https://github.com/aeonix/aeon-gui/archive/v0.14.1.0-aeon.tar.gz)
 
 #### Hashes for Aeon CLI and GUI
 ```
@@ -46,23 +46,23 @@ Note to edit the /path/to/your/file/blockchain.raw with the physical path you pu
 * <i class="fab fa-windows fa-fw" style="margin-right:0.5em"></i>[Windows](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW.Setup.1.4.1.exe)
 * <i class="fab fa-apple fa-fw" style="margin-right:0.5em"></i>[Mac OS](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW-1.4.1.dmg)
 * <i class="fab fa-linux fa-fw" style="margin-right:0.5em"></i>[Linux](https://github.com/BigslimVdub/AeonLW/releases/download/v1.4.1/AeonLW_1.4.1_amd64.deb)
-* [DIY Source Code .zip](https://github.com/BigslimVdub/AeonLW/archive/v1.4.1.zip)
-* [DIY Source Code tar.gz](https://github.com/BigslimVdub/AeonLW/archive/v1.4.1.tar.gz)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code .zip](https://github.com/BigslimVdub/AeonLW/archive/v1.4.1.zip)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code tar.gz](https://github.com/BigslimVdub/AeonLW/archive/v1.4.1.tar.gz)
 
 
 #### <i class="fab fa-android fa-fw" style="margin-right:0.5em"></i>Aeon Android Wallet (aeondroid v0.14.1.0d)
 
-* [Google Play Store](https://play.google.com/store/apps/details?id=org.aeondroid.app)
-* [ArmV8](https://github.com/ivoryguru/aeondroid/releases/download/0.14.1.0d/app-arm64-v8a-release.apk)
-* [ArmV7](https://github.com/ivoryguru/aeondroid/releases/download/0.14.1.0d/app-armeabi-v7a-release.apk)
-* [Universal APK](https://github.com/ivoryguru/aeondroid/releases/download/0.14.1.0d/app-universal-release.apk)
-* [DIY Source Code .zip](https://github.com/ivoryguru/aeondroid/archive/0.14.1.0d.zip)
-* [DIY Source Code tar.gz](https://github.com/ivoryguru/aeondroid/archive/0.14.1.0d.tar.gz)
+* <i class="fab fa-google fa-fw" style="margin-right:0.5em"></i>[Google Play Store](https://play.google.com/store/apps/details?id=org.aeondroid.app)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[ArmV8](https://github.com/ivoryguru/aeondroid/releases/download/0.14.1.0d/app-arm64-v8a-release.apk)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[ArmV7](https://github.com/ivoryguru/aeondroid/releases/download/0.14.1.0d/app-armeabi-v7a-release.apk)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[Universal APK](https://github.com/ivoryguru/aeondroid/releases/download/0.14.1.0d/app-universal-release.apk)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code .zip](https://github.com/ivoryguru/aeondroid/archive/0.14.1.0d.zip)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code tar.gz](https://github.com/ivoryguru/aeondroid/archive/0.14.1.0d.tar.gz)
 
 #### <i class="fab fa-android fa-fw" style="margin-right:0.5em"></i>Aeon Android p2p (aeondroid-p2p v0.14.1.0d)
 
-* [Google Play Store](https://play.google.com/store/apps/details?id=org.aeondroidp2p.app)
-* [Release APK](https://github.com/ivoryguru/aeondroid-p2p/releases/download/0.14.1.0d/app-release.apk)
-* [DIY Source Code .zip](https://github.com/ivoryguru/aeondroid-p2p/archive/0.14.1.0d.zip)
-* [DIY Source Code tar.gz](https://github.com/ivoryguru/aeondroid-p2p/archive/0.14.1.0d.tar.gz)
+* <i class="fab fa-google fa-fw" style="margin-right:0.5em"></i>[Google Play Store](https://play.google.com/store/apps/details?id=org.aeondroidp2p.app)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[Release APK](https://github.com/ivoryguru/aeondroid-p2p/releases/download/0.14.1.0d/app-release.apk)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code .zip](https://github.com/ivoryguru/aeondroid-p2p/archive/0.14.1.0d.zip)
+* <i class="fab fa-github fa-fw" style="margin-right:0.5em"></i>[DIY Source Code tar.gz](https://github.com/ivoryguru/aeondroid-p2p/archive/0.14.1.0d.tar.gz)
 
