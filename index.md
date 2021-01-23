@@ -37,21 +37,21 @@
         </div>
 	
 	<input type="checkbox" name="accordion" id="mining" checked>
-        <label for="mining"><h2><i class="fas fa-microchip"></i>Mining</h2></label>
+        <label for="mining"><h2><i class="fas fa-microchip" style="margin-right:0.5em"></i>Mining</h2></label>
         <div class="panel">
           {% capture mining %}{% include mining.md %}{% endcapture %}
           {{ mining | markdownify }}
         </div>
 
         <input type="checkbox" name="accordion" id="support" checked>
-        <label for="support"><h2><i class="far fa-question-circle"></i>Support</h2></label>
+        <label for="support"><h2><i class="far fa-question-circle" style="margin-right:0.5em"></i>Support</h2></label>
         <div class="panel">
           {% capture support %}{% include support.md %}{% endcapture %}
           {{ support | markdownify }}
         </div>
 
         <input type="checkbox" name="accordion" id="contributing" checked>
-        <label for="contributing"><h2><i class="fas fa-handshake"></i><a href="/How-Tos/Contribute/contribute.html" style="color:black;">Contributing</a></h2></label>
+        <label for="contributing"><h2><i class="fas fa-handshake" style="margin-right:0.5em"></i><a href="/How-Tos/Contribute/contribute.html" style="color:black;">Contributing</a></h2></label>
 
         <input type="checkbox" name="accordion" id="documentation" checked>
         <label for="documentation"><h2><i class="far fa-file" style="margin-right:0.5em"></i>Documentation</h2></label>
