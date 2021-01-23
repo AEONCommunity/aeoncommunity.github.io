@@ -1,6 +1,6 @@
 Aeon is developed from a community-driven approach, so there are no official resources or official organizations that are leading it. Smooth, a developer for AEON since 2014, has maintained regular updates to the source code on [GitHub](https://github.com/aeonix/aeon). Additional support is provided by community developer Stoffu as well as many community contributors. Everyone is invited to contribute to the AEON project whether that be developing new applications or integrating AEON as a payment method. 
 
-* [Website](https://www.aeon.cash)
+* <i class="fab fa-github"></i>[Website](https://www.aeon.cash)
 * [Website](https://www.aeon-crypto.org)
 * [Aeonix GitHub](https://github.com/aeonix)
 * [Email Subscription](https://docs.google.com/forms/d/e/1FAIpQLSci2UitA67N0W_xgSPLlGj6acGnTOtTdDR_ODZwXTHXZsWnCQ/viewform)
