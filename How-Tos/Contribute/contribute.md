@@ -1,6 +1,9 @@
 ---
 permalink: ./How-Tos/Contribute/contribute.html
 ---
+
+Return to the main page <a href="https://aeoncommunity.github.io">by clicking this cool link :)</a>.
+
 # How To Contribute to the AEON Project
 
 AEON is an open source project, and therefore it's life comes from the **AEON community**; the regular people who decide to follow the project.
@@ -88,7 +91,7 @@ For details check out the [readme file](https://github.com/AEONCommunity/Transla
 * Aeon.cash main website translation for HTML [HERE](https://github.com/AEONCommunity/Translations/tree/master/Aeon.Cash%20Translations/German)
 * Core CLI and GUI application readme's and contributing documents [HERE](https://github.com/AEONCommunity/Translations/tree/master/Core%20Translations/German)
 
-### Esperanto Translations:
+### Esperanto Translations:z
 
 * Aeon.cash main website translation for HTML [HERE](https://github.com/AEONCommunity/Translations/tree/master/Aeon.Cash%20Translations/Esperanto)
 
