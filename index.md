@@ -49,9 +49,10 @@
           {% capture support %}{% include support.md %}{% endcapture %}
           {{ support | markdownify }}
         </div>
-
-        <input type="checkbox" name="accordion" id="contributing" checked>
-        <label for="contributing"><h2><i class="fas fa-handshake fa-fw" style="margin-right:0.5em"></i><a href="/How-Tos/Contribute/contribute.html" style="color:black;">Contributing</a></h2></label>
+	
+	<a href="/How-Tos/Contribute/contribute.html" style="text-decoration : none;">
+        <label for="contributing"><h2><i class="fas fa-handshake fa-fw" style="margin-right:0.5em"></i>Contributing</h2></label>
+	</a>
 
         <input type="checkbox" name="accordion" id="documentation" checked>
         <label for="documentation"><h2><i class="far fa-file fa-fw" style="margin-right:0.5em"></i>Documentation</h2></label>
