@@ -1,6 +1,9 @@
 ---
 permalink: ./How-Tos/Contribute/contribute.html
 ---
+
+Return to the main page <a href="https://aeoncommunity.github.io">by clicking this cool link :)</a>.
+
 # How To Contribute to the AEON Project
 
 AEON is an open source project, and therefore it's life comes from the **AEON community**; the regular people who decide to follow the project.
