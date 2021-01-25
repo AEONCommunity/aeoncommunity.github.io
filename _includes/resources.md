@@ -27,3 +27,9 @@ Aeon is developed from a community-driven approach, so there are no official res
 * [Block Explorer 3](https://www.aeonstats.com)
 * [Block Explorer 4](https://aeonblockchecker.ninja:8081)
 * [Block Explorer 5](https://aeonstats.info)
+
+# Aeon Background and Implementation
+
+* [How does Aeon stand out in the Cryptonote pool](https://github.com/AEONCommunity/aeoncommunity.github.io/blob/master/information/implementation.md)
+* [Differentation from other major coins](https://github.com/AEONCommunity/aeoncommunity.github.io/blob/master/information/differentiation.md)
+* [Aeon Coin timeline of the project](https://github.com/AEONCommunity/aeoncommunity.github.io/blob/master/information/timeline.md)
