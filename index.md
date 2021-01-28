@@ -3,7 +3,7 @@
 
 <link rel="stylesheet" href="https://unpkg.com/flexboxgrid2@7.2.1/flexboxgrid2.css">
   <link href="/libs/fontawesome/css/all.css" rel="stylesheet">
-
+  <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon">
 <!--
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
 -->
