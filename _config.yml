@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: AEON Community Pages
-description: A collection of information, links, and recognition of Aeon community accomplishments.
-logo: /assets/img/aeon_title2_340x128.png
+title: Community Pages
+description: Private Digital Cash. Welcome to our home! AEON is an open source project, and therefore it’s life comes from the <b>AEON community</b>; the regular people who decide to follow and help build the project.
+logo: /assets/img/title_logo.svg
 markdown: kramdown
 highlighter: rouge
 kramdown:

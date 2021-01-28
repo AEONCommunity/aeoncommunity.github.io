@@ -19,8 +19,7 @@
     <div class="row center-xs">
       <div class="col-xs-12 col-lg-10 col-xl-8 text-left">
         
-	<h1>AEON</h1>
-        <p>Private Digital Cash. Welcome to our home!</p>
+     
 
         <input type="checkbox" name="accordion" id="resources" checked>
         <label for="resources"><h2><i class="fas fa-book-reader fa-fw" style="color: #1565c0; margin-right:0.5em"></i>Resources</h2></label>

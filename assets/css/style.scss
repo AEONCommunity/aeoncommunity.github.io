@@ -16,26 +16,23 @@ a:hover small {
 
 /* styles for the accordion content area follow... */
 :root {
-  --color1: #5fbcd3;
-  --color2: #2c89a0;
-  --color3: #164450;
+  --color1: #4dd0e1;
+  --color2: #03a9f4;
+  --color3: #1565c0;
   --color4: #444444;
   --color5: #ffffff;
   --color6: #f2f2f2;
 }
 body {
   margin: 0;
-  background-color: var(--color6);
   color: var(--color4);
-  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  font-family: Ubuntu, Calibri, Helvetica, Arial, sans-serif;
 }
 a {
-  color: var(--color2);
-  text-decoration: none;
+  color: var(--color3);
 }
 a:hover, a:focus {
   color: var(--color2);
-  text-decoration: underline;
 }
 /* h2 > a {
   color: var(--color4);
