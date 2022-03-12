@@ -273,3 +273,47 @@ Several documentation and configuration improvements from the AEON community. Da
   - [1] HitBTC re-opens support for Aeon deposits and withdrawals.
 
   - [2] [French](https://github.com/aeonix/aeonix.github.io/pull/84) translations added to our website. 
+  
+  - [27] Aeon v0.13.0.0 "Aletheia" Released.
+
+#### October
+
+  - [25] Aeon Hard Fork to v0.13.0.0 (height 1146200): POW change to Kangaroo 12 (sha3 variant) designed for FPGA and ASIC integration, fixed ring size 3, many updates for mixin distribution, and Borromean signatures for smaller transactions.
+
+#### December
+
+  - [10] Aeon v0.13.1.0 point release: Additional maintenance updates and compiling updates, additional new cli notifications added
+
+## 2020
+
+#### October 
+
+  - [12] Aeon v0.14.0.0 "Chronos" released.
+
+  - [25] Aeon v0.14.1.0 point release.
+
+#### November 
+
+  - [11] Aeon Hard Fork to v0.14.0.0 (height 1280000): Security and wallet enhancements, updated unix based time block unlocks flaw, updated difficulty retargeting to reduce variance in block times with large hash rate changes on the network.
+
+## 2021
+
+#### January
+
+  - [27] Aeon community member IvoryGuru creates Aeon docs, Aeon wiki, and Aeon data websites containing useful information pertatining to the Aeon network. This user also created a reddit and twitter linker bot to the AeonCommunity github repository.
+
+#### April
+
+  - [14] Smooth worked with community member Yorha-0x to provide a dev-fund review showing almost all of the original donations to the Aeon dev fund were still in existance and in the posession of Smooth. https://github.com/AEONCommunity/DevFundReview
+
+  - [18] Aeon Android wallet refresh version v2.0.1 updated to integrate v0.14.1.0 Aeon code. (https://github.com/monerujo-io/aeonwallet/releases/tag/ae-v2.0.1)
+
+  - [21] Aeon Android wallet point release v2.0.3. https://github.com/monerujo-io/aeonwallet/releases/tag/ae-v2.0.3
+
+  - [27] Community members discuss an Aeon logo refresh with various logos. No changes were adopted to the official repository. 
+
+## 2022
+
+#### March
+
+  - [7] Preliminary v0.14.2.0 point release binaries distributed to community for testing CLI and GUI applications
